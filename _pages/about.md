@@ -23,6 +23,10 @@ I love to meet people with different backgrounds and distinct insights. If you a
 ## Research
 <sub>(a) denotes alphabetical ordering which is conventional for theoretical computer science, \* denotes equal contributions.<sub>
 
+The Mixed Birth-death/death-Birth Moran Process\\
+(a) David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak.
+In Submission
+
 Online and Dynamic Metric Embeddings with Monotone Recourse\\
 (a) Christian Coester, **Yichen Huang**\\
 In Submission
