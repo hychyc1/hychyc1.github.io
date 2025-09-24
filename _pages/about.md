@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<meta name="google-site-verification" content="MyYTxr4l_nSo56xCGoHJyld-DjcrO8Xan1qu0uba26g" />
 
 I am a second-year Ph.D. student at Harvard under the wise guidance of [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/). Previously, I completed my undergraduate and Masters at University of Oxford, where I was fortunate to work with [Prof. Christian Coester](https://www.cs.ox.ac.uk/people/christian.coester/) and [Prof. Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/).
 
@@ -22,7 +21,10 @@ I love to talk to people with different backgrounds and distinct insights. If yo
 (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?)
 
 ## Research
-$\alpha$ denotes alphabetical ordering which is conventional for theoretical computer science, \* denotes equal contributions.
+\(\alpha\) denotes alphabetical ordering which is conventional for theoretical computer science, \* denotes equal contributions.
+
+Online and Dynamic Metric Embeddings with Monotone Recourse
+(\(\alpha\)) Christian Coester, **Yichen Huang**
 
 [Efficient Task Grouping Through Samplewise Optimisation Landscape Analysis](https://ieeexplore.ieee.org/document/11078907)\\
 Anshul Thakur\*, **Yichen Huang**\*, Soheila Molaei, Yujiang Wang, David A. Clifton\\
@@ -33,7 +35,7 @@ Shannon R. Petersen, David Kohan Marzagão, Georgina L. Gregory, **Yichen Huang*
 Angewandte Chemie
 
 ## Teaching
-TA for CS 2380 Optimized Democracy.
+TA for Harvard CS 2380 Optimized Democracy.
 
 ## Seminars and Organizations
 I currently organize [TGINF](https://sites.google.com/view/harvardtginf/), a theory seminar for graduate students and postdocs at Harvard.
@@ -41,5 +43,5 @@ I currently organize [TGINF](https://sites.google.com/view/harvardtginf/), a the
 ## Service
 Subreviewer for ITCS 2025.
 
-## Misc and Personal Lift
+## Misc
 Outside of academics, I enjoy playing Poker and cooking. I also spend some time participating in competitive debating, mostly done in Mandarin Chinese. I currently lead the Harvard Chinese Debate Team, and I used to be the captain of the Chinese debate team at Oxford.
