@@ -16,19 +16,19 @@ I am broadly interested in theoretical computer science. In particular, I am int
 
 I am also interested in perform inter-displinery research involving theoretical analysis.
 
-I love to talk to people with different backgrounds and distinct insights. If you are interested in my work, interested in potential collaboration, or just want to talk, feel free to email me at ``yichenhuang@g.harvard.edu``.
+I love to talk to people with different backgrounds and distinct insights. If you are interested in my work, interested in potential collaboration, or just want to talk, feel free to email me at yichenhuang@g.harvard.edu.
 
 (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?)
 
 ## Research
-$\alpha$ denotes alphabetical ordering which is conventional for theoretical computer science, $*$ denotes equal contributions.
+$\alpha$ denotes alphabetical ordering which is conventional for theoretical computer science, \* denotes equal contributions.
 
-[Efficient Task Grouping Through Samplewise Optimisation Landscape Analysis](https://ieeexplore.ieee.org/document/11078907)
-Anshul Thakur*, \underline{Yichen Huang}*, Soheila Molaei, Yujiang Wang, David A. Clifton
+[Efficient Task Grouping Through Samplewise Optimisation Landscape Analysis](https://ieeexplore.ieee.org/document/11078907)\\
+Anshul Thakur\*, **Yichen Huang**\*, Soheila Molaei, Yujiang Wang, David A. Clifton\\
 IEEE Transactions on Pattern Analysis and Machine Intelligence
 
-[Property Prediction of Bio-Derived Block Copolymer Thermoplastic Elastomers Using Graph Kernel Methods](https://onlinelibrary.wiley.com/doi/10.1002/anie.202411097)
-Shannon R. Petersen, David Kohan Marzagão, Georgina L. Gregory, \underline{Yichen Huang}, David A. Clifton, Charlotte K. Williams, Clive R. Siviour
+[Property Prediction of Bio-Derived Block Copolymer Thermoplastic Elastomers Using Graph Kernel Methods](https://onlinelibrary.wiley.com/doi/10.1002/anie.202411097)\\
+Shannon R. Petersen, David Kohan Marzagão, Georgina L. Gregory, **Yichen Huang**, David A. Clifton, Charlotte K. Williams, Clive R. Siviour\\
 Angewandte Chemie
 
 ## Teaching
@@ -41,4 +41,4 @@ I currently organize [TGINF](https://sites.google.com/view/harvardtginf/), a the
 Subreviewer for ITCS 2025.
 
 ## Misc and Personal Lift
-Outside of academics, I enjoy playing Poker and cooking. I also spend some time participating in competitive debating, mostly done in Mandarin Chinese. I am the captain of Harvard Chinese Debate Team , and used to be the captain of Chinese debate team at Oxford.
+Outside of academics, I enjoy playing Poker and cooking. I also spend some time participating in competitive debating, mostly done in Mandarin Chinese. I currently lead the Harvard Chinese Debate Team, and I used to be the captain of the Chinese debate team at Oxford.

@@ -21,18 +21,18 @@ repository               : "hychyc1/hychyc1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.png"
+  avatar           : "photo.jpg"
   name             : "Yichen Huang"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at Harvard"
   location         : # "Boston, MA"
-  employer         : "Harvard SEAS"
+  employer         : # "Harvard SEAS"
   uri              : # URL
   email            : "yichenhuang@g.harvard.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=MiWZJWsAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/0009-0004-8584-7354"
   semantic         : # URL
