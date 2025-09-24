@@ -21,14 +21,14 @@ I enjoying talking to people with different backgrounds and distinct insights. I
 (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?)
 
 ## Research
-<sub>(&alpha) denotes alphabetical ordering which is conventional for theoretical computer science, \* denotes equal contributions.<sub>
+<sub>(&alpha;) denotes alphabetical ordering which is conventional for theoretical computer science, \* denotes equal contributions.<sub>
 
 The Mixed Birth-death/death-Birth Moran Process\\
-(a) David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
+(&alpha;) David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
 In Submission
 
 Online and Dynamic Metric Embeddings with Monotone Recourse\\
-(a) Christian Coester, **Yichen Huang**\\
+(&alpha;) Christian Coester, **Yichen Huang**\\
 In Submission
 
 [Efficient Task Grouping Through Samplewise Optimisation Landscape Analysis](https://ieeexplore.ieee.org/document/11078907)\\
