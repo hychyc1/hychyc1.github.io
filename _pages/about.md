@@ -16,7 +16,7 @@ I am broadly interested in theoretical computer science. In particular, I am int
 
 I am also interested in performing inter-displinery research involving theoretical analysis.
 
-I love to meet people with different backgrounds and distinct insights. If you are interested in my work, potential collaboration, or just want to talk, feel free to email me at yichenhuang@g.harvard.edu.
+I enjoying talking to people with different backgrounds and distinct insights. If you are interested in potential collaboration or just want to talk about anything, feel free to email me at yichenhuang@g.harvard.edu.
 
 (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?)
 
