@@ -21,7 +21,7 @@ I love to meet people with different backgrounds and distinct insights. If you a
 (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?)
 
 ## Research
-<sub>(a) denotes alphabetical ordering which is conventional for theoretical computer science, \* denotes equal contributions.<sub>
+<sub>(&alpha) denotes alphabetical ordering which is conventional for theoretical computer science, \* denotes equal contributions.<sub>
 
 The Mixed Birth-death/death-Birth Moran Process\\
 (a) David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak.
