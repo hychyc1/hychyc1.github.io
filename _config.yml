@@ -21,11 +21,11 @@ repository               : "hychyc1/hychyc1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.png"
   name             : "Yichen Huang"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at Harvard"
-  location         : "Boston, MA"
+  location         : # "Boston, MA"
   employer         : "Harvard SEAS"
   uri              : # URL
   email            : "yichenhuang@g.harvard.edu" 
@@ -46,11 +46,11 @@ author:
   github           : "hychyc1"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-  codeforces       : "hychyc"
+  codeforces       : #"hychyc"
 
   # Social media
   bluesky          : # Replace this with you Bluesky username
-  facebook         : "yichen.huang.773981" # Username
+  facebook         : # "yichen.huang.773981" # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
