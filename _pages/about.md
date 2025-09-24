@@ -21,10 +21,10 @@ I love to talk to people with different backgrounds and distinct insights. If yo
 (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?)
 
 ## Research
-\(\alpha\) denotes alphabetical ordering which is conventional for theoretical computer science, \* denotes equal contributions.
+alpha denotes alphabetical ordering which is conventional for theoretical computer science, \* denotes equal contributions.
 
 Online and Dynamic Metric Embeddings with Monotone Recourse\\
-(\(\alpha\)) Christian Coester, **Yichen Huang**\\
+(alpha) Christian Coester, **Yichen Huang**\\
 In Submission
 
 [Efficient Task Grouping Through Samplewise Optimisation Landscape Analysis](https://ieeexplore.ieee.org/document/11078907)\\
