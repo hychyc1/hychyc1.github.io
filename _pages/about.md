@@ -23,8 +23,9 @@ I love to talk to people with different backgrounds and distinct insights. If yo
 ## Research
 \(\alpha\) denotes alphabetical ordering which is conventional for theoretical computer science, \* denotes equal contributions.
 
-Online and Dynamic Metric Embeddings with Monotone Recourse
-(\(\alpha\)) Christian Coester, **Yichen Huang**
+Online and Dynamic Metric Embeddings with Monotone Recourse\\
+(\(\alpha\)) Christian Coester, **Yichen Huang**\\
+In Submission
 
 [Efficient Task Grouping Through Samplewise Optimisation Landscape Analysis](https://ieeexplore.ieee.org/document/11078907)\\
 Anshul Thakur\*, **Yichen Huang**\*, Soheila Molaei, Yujiang Wang, David A. Clifton\\
