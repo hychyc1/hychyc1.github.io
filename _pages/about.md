@@ -14,9 +14,9 @@ I am broadly interested in theoretical computer science. In particular, I am int
 2. [Learning-augmented Algorithms](https://algorithms-with-predictions.github.io/): Inspired by the successes of machine learning, how can an algorithm utilize a prediction oracle that provides you with some information of the problem with no guarantee of being correct? Can we design algorithms that take advantage of predictions when they are good, while simultaneously not misled too much even if predictions are grossly erroneous? 
 3. Economics and Computation: Many settings in the economics involves decision making uncertainty. When only given the ordinal preferences of the voter, can algorithm still select good candidates with respect to a cardinal utility? When the participants in the algorithm may not be truthful but trying to maximize their own utility, what is the cost of making the algorithm strategyproof (= making truthfully reporting an equilibrium)?
 
-I am also interested in perform inter-displinery research involving theoretical analysis.
+I am also interested in performing inter-displinery research involving theoretical analysis.
 
-I love to talk to people with different backgrounds and distinct insights. If you are interested in my work, interested in potential collaboration, or just want to talk, feel free to email me at yichenhuang@g.harvard.edu.
+I love to meet people with different backgrounds and distinct insights. If you are interested in my work, potential collaboration, or just want to talk, feel free to email me at yichenhuang@g.harvard.edu.
 
 (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?)
 
@@ -36,10 +36,10 @@ Shannon R. Petersen, David Kohan Marzagão, Georgina L. Gregory, **Yichen Huang*
 Angewandte Chemie
 
 ## Teaching
-TA for Harvard CS 2380 Optimized Democracy.
+TA for Harvard CS 2380 Optimized Democracy, Fall 2025.
 
 ## Seminars and Organizations
-I currently organize [TGINF](https://sites.google.com/view/harvardtginf/), a theory seminar for graduate students and postdocs at Harvard.
+I currently co-organize [TGINF](https://sites.google.com/view/harvardtginf/), a theory seminar for graduate students and postdocs at Harvard.
 
 ## Service
 Subreviewer for ITCS 2025.
