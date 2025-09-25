@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student at Harvard University under the wise guidance of [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/). Previously, I completed my undergraduate study at the University of Oxford, where I was fortunate to work with [Prof. Christian Coester](https://www.cs.ox.ac.uk/people/christian.coester/) and [Prof. Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/).
+I am a second-year Ph.D. student in Computer Science at Harvard University under the wise guidance of [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/). Previously, I completed my undergraduate study at the University of Oxford, where I was fortunate to work with [Prof. Christian Coester](https://www.cs.ox.ac.uk/people/christian.coester/) and [Prof. Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/).
 
 I am broadly interested in theoretical computer science, particularly related to decision under uncertainty, including:
 1. Online Algorithms: An algorithm is called online if it receives the input over time and have to make decisions without being revealed the future. How can we design algorithms that are competitive against the optimal algorithm in hindsight?
