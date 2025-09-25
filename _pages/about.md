@@ -50,8 +50,8 @@ Shannon R. Petersen, David Kohan Marzagão, Georgina L. Gregory, **Yichen Huang*
 Angewandte Chemie, 2024
 
 ## Talks
-**Online and Dynamic Metric Embeddings with Monotone Recourse**
-TGINF (Harvard Student Theory Seminar) 2025
+**Online and Dynamic Metric Embeddings with Monotone Recourse**\\
+TGINF (Harvard Student Theory Seminar) 2025\\
 Workshop on Local Algorithms 2025
 
 ## Teaching
