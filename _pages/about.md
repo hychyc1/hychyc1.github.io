@@ -15,7 +15,7 @@ I am broadly interested in theoretical computer science, particularly related to
 3. Mechanism Design: Many settings in the economics involves decision making uncertainty. When the participants in the algorithm may not be truthful but trying to maximize their own utility, what is the cost of making the algorithm strategyproof (= making every participant truthfully reporting an equilibrium)?
 <!-- 4. When only given the ordinal preferences of the voter, can algorithm still select good candidates with respect to a cardinal utility? -->
 
-Occasionally, I also participate in empirical and experimental researchs, mostly by providing theoretical insights and justifications.
+Occasionally, I also participate in empirical and experimental researches, mostly by providing theoretical insights and justifications.
 <!-- I am also interested in performing inter-displinery research involving theoretical analysis. Occasionally, I perform some ML research, with the focus on novel applications derived from insights about the world. -->
 
 I enjoying talking to people with different backgrounds and distinct insights. If you are interested in potential collaboration or want to talk about anything, feel free to email me at yichenhuang@g.harvard.edu.
