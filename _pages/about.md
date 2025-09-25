@@ -49,6 +49,11 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025
 Shannon R. Petersen, David Kohan Marzagão, Georgina L. Gregory, **Yichen Huang**, David A. Clifton, Charlotte K. Williams, Clive R. Siviour\\
 Angewandte Chemie, 2024
 
+## Talks
+**Online and Dynamic Metric Embeddings with Monotone Recourse**
+TGINF (Harvard Student Theory Seminar) 2025
+Workshop on Local Algorithms 2025
+
 ## Teaching
 TA for Harvard CS 2380 Optimized Democracy, Fall 2025.
 
