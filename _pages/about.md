@@ -23,7 +23,7 @@ I enjoying talking to people with different backgrounds and distinct insights. I
 
 ## Research
 ### Theoretical Computer Science
-<sub>It is conventional in theoretical computer science to list the authors in alphabetical ordering.<sub>
+It is conventional in theoretical computer science to list the authors in alphabetical ordering.
 <!-- <sub>It is conventional denotes alphabetical ordering which is conventional in theoretical computer science, (\*) denotes equal contributions.<sub> -->
 
 The Mixed Birth-death/death-Birth Moran Process\\
@@ -35,7 +35,7 @@ Christian Coester, **Yichen Huang**\\
 In Submission
 
 ### Machine Learning
-<sub>(\*) denotes equal contributions.<sub>
+(\*) denotes equal contributions.
 
 [Efficient Task Grouping Through Samplewise Optimisation Landscape Analysis](https://ieeexplore.ieee.org/document/11078907)\\
 Anshul Thakur\*, **Yichen Huang**\*, Soheila Molaei, Yujiang Wang, David A. Clifton\\
