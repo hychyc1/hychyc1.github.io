@@ -20,7 +20,7 @@ Occasionally, I also participate in empirical and experimental researches, mostl
 
 I enjoying talking to people with different backgrounds and distinct insights. If you are interested in potential collaboration or want to talk about anything, feel free to email me at yichenhuang@g.harvard.edu.
 
-(Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?)
+<!-- (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?) -->
 
 ## Research
 (&alpha;) denotes alphabetical ordering, as is convention in theoretical computer science; (\*) denotes equal contributions.
