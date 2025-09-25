@@ -23,8 +23,10 @@ I enjoying talking to people with different backgrounds and distinct insights. I
 (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?)
 
 ## Research
+&alpha; denotes alphabetical ordering, as is convention in theoretical computer science; (\*) denotes equal contributions.
+
 ### Theoretical Computer Science
-It is conventional in theoretical computer science to list the authors in alphabetical ordering.
+<!-- It is conventional in  to list the authors in alphabetical ordering. -->
 <!-- <sub>It is conventional denotes alphabetical ordering which is conventional in theoretical computer science, (\*) denotes equal contributions.<sub> -->
 
 The Mixed Birth-death/death-Birth Moran Process\\
@@ -36,8 +38,6 @@ Christian Coester, **Yichen Huang**\\
 In Submission
 
 ### Machine Learning
-(\*) denotes equal contributions.
-
 Balancing Growth and Equity: Multi-Objective Optimization in Urban Renewal with Deep Reinforcement Learning\\
 Jianghao Yu\*, **Yiche Huang**\*, Yuming Lin, Yu Zheng, Yuge Cui, Michael Mitzenmacher, Yong Li, and Li Tian\\
 In Submission
