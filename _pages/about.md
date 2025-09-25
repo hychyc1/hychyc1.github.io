@@ -37,13 +37,17 @@ In Submission
 ### Machine Learning
 (\*) denotes equal contributions.
 
+Balancing Growth and Equity: Multi-Objective Optimization in Urban Renewal with Deep Reinforcement Learning\\
+Jianghao Yu\*, **Yiche Huang**\*, Yuming Lin, Yu Zheng, Yuge Cui, Michael Mitzenmacher, Yong Li, and Li Tian\\
+In Submission
+
 [Efficient Task Grouping Through Samplewise Optimisation Landscape Analysis](https://ieeexplore.ieee.org/document/11078907)\\
 Anshul Thakur\*, **Yichen Huang**\*, Soheila Molaei, Yujiang Wang, David A. Clifton\\
-IEEE Transactions on Pattern Analysis and Machine Intelligence
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025
 
 [Property Prediction of Bio-Derived Block Copolymer Thermoplastic Elastomers Using Graph Kernel Methods](https://onlinelibrary.wiley.com/doi/10.1002/anie.202411097)\\
 Shannon R. Petersen, David Kohan Marzagão, Georgina L. Gregory, **Yichen Huang**, David A. Clifton, Charlotte K. Williams, Clive R. Siviour\\
-Angewandte Chemie
+Angewandte Chemie, 2024
 
 ## Teaching
 TA for Harvard CS 2380 Optimized Democracy, Fall 2025.
