@@ -10,7 +10,7 @@ redirect_from:
 I am a second-year Ph.D. student in Computer Science at Harvard University under the wise guidance of [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/). Previously, I completed my undergraduate study at the University of Oxford, where I was fortunate to work with [Prof. Christian Coester](https://www.cs.ox.ac.uk/people/christian.coester/) and [Prof. Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/).
 
 I am broadly interested in theoretical computer science, particularly related to decision under uncertainty, including:
-1. Online Algorithms: An algorithm is called online if it receives the input over time and have to make decisions without being revealed the future. How can we design algorithms that are competitive against the optimal algorithm in hindsight?
+1. Online Algorithms: An algorithm is called online if it receives the input over time and has to make decisions without being revealed the future. How can we design algorithms that are competitive against the optimal algorithm in hindsight?
 2. [Learning-augmented Algorithms](https://algorithms-with-predictions.github.io/): Inspired by the successes of machine learning, how can an algorithm utilize a prediction oracle that provides us with some hint of the problem with no guarantee of correctness? Can we design algorithms that take advantage of predictions when they are good, while not misled too much even if predictions are grossly erroneous? 
 3. Mechanism Design: Many settings in the economics involves decision making uncertainty. When the participants in the algorithm may not be truthful but trying to maximize their own utility, what is the cost of making the algorithm strategyproof (= making every participant truthfully reporting an equilibrium)?
 <!-- 4. When only given the ordinal preferences of the voter, can algorithm still select good candidates with respect to a cardinal utility? -->
@@ -31,16 +31,21 @@ I enjoying talking to people with different backgrounds and distinct insights. I
 
 The Mixed Birth-death/death-Birth Moran Process\\
 (&alpha;) David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
-In Submission
+Manuscript
 
 Online and Dynamic Metric Embeddings with Monotone Recourse\\
 (&alpha;) Christian Coester, **Yichen Huang**\\
-In Submission
+Manuscript
+
+### EconCS
+[Form vs Information: The Regimes of Data Property Rights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626)
+(&alpha;) **Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng
+Manuscript
 
 ### Machine Learning
 Balancing Growth and Equity: Multi-Objective Optimization in Urban Renewal with Deep Reinforcement Learning\\
 Jianghao Yu\*, **Yiche Huang**\*, Yuming Lin, Yu Zheng, Yuge Cui, Michael Mitzenmacher, Yong Li, and Li Tian\\
-In Submission
+Manuscript
 
 [Efficient Task Grouping Through Samplewise Optimisation Landscape Analysis](https://ieeexplore.ieee.org/document/11078907)\\
 Anshul Thakur\*, **Yichen Huang**\*, Soheila Molaei, Yujiang Wang, David A. Clifton\\
