@@ -38,8 +38,8 @@ Online and Dynamic Metric Embeddings with Monotone Recourse\\
 Manuscript
 
 ### EconCS
-[Form vs Information: The Regimes of Data Property Rights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626)
-(&alpha;) **Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng
+[Form vs Information: The Regimes of Data Property Rights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626)\\
+(&alpha;) **Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng\\
 Manuscript
 
 ### Machine Learning
