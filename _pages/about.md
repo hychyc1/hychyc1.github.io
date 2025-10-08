@@ -53,7 +53,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025
 
 [Property Prediction of Bio-Derived Block Copolymer Thermoplastic Elastomers Using Graph Kernel Methods](https://onlinelibrary.wiley.com/doi/10.1002/anie.202411097)\\
 Shannon R. Petersen, David Kohan Marzagão, Georgina L. Gregory, **Yichen Huang**, David A. Clifton, Charlotte K. Williams, Clive R. Siviour\\
-Angewandte Chemie, 2024
+Angewandte Chemie, 2025
 
 ## Talks
 **Online and Dynamic Metric Embeddings with Monotone Recourse**\\
