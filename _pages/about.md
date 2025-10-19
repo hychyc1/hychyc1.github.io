@@ -9,7 +9,7 @@ redirect_from:
 
 I am a second-year Ph.D. student in Computer Science at Harvard University under the wise guidance of [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/). Previously, I completed my undergraduate study at the University of Oxford, where I was fortunate to work with [Prof. Christian Coester](https://www.cs.ox.ac.uk/people/christian.coester/) and [Prof. Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/).
 
-I am broadly interested in theoretical computer science, particularly related to decision under uncertainty, including:
+I am broadly interested in theoretical computer science, particularly related to decision-making under uncertainty, including:
 1. Online Algorithms: An algorithm is called online if it receives the input over time and has to make decisions without being revealed the future. How can we design algorithms that are competitive against the optimal algorithm in hindsight?
 2. [Learning-augmented Algorithms](https://algorithms-with-predictions.github.io/): Inspired by the successes of machine learning, how can an algorithm utilize a prediction oracle that provides us with some hint of the problem with no guarantee of correctness? Can we design algorithms that take advantage of predictions when they are good, while not misled too much even if predictions are grossly erroneous? 
 3. Mechanism Design: Many settings in the economics involves decision making uncertainty. When the participants in the algorithm may not be truthful but trying to maximize their own utility, what is the cost of making the algorithm strategyproof (= making every participant truthfully reporting an equilibrium)?
@@ -23,7 +23,7 @@ I enjoying talking to people with different backgrounds and distinct insights. I
 <!-- (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?) -->
 
 ## Research
-(&alpha;) denotes alphabetical ordering, as is convention in theoretical computer science; (\*) denotes equal contributions.
+(&alpha;) denotes alphabetical ordering, which is conventional in theoretical computer science; (\*) denotes equal contributions.
 
 ### Theoretical Computer Science
 <!-- It is conventional in  to list the authors in alphabetical ordering. -->
