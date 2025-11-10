@@ -31,7 +31,7 @@ I enjoying talking to people with different backgrounds and distinct insights. I
 
 The Mixed Birth-death/death-Birth Moran Process\\
 (&alpha;) David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
-Manuscript
+ITCS 2026
 
 Online and Dynamic Metric Embeddings with Monotone Recourse\\
 (&alpha;) Christian Coester, **Yichen Huang**\\
