@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in Computer Science at Harvard University under the wise guidance of [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/). Previously, I completed my undergraduate study at the University of Oxford, where I was fortunate to work with [Prof. Christian Coester](https://www.cs.ox.ac.uk/people/christian.coester/) and [Prof. Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/).
+I am a Ph.D. student in Computer Science at Harvard University under the wise guidance of [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/). Previously, I completed my undergraduate study at the University of Oxford, where I was fortunate to work with [Prof. Christian Coester](https://www.cs.ox.ac.uk/people/christian.coester/) and [Prof. Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/).
 
 I am broadly interested in theoretical computer science, particularly related to decision-making under uncertainty, including:
-1. Online Algorithms: An algorithm is called online if it receives the input over time and has to make decisions without being revealed the future. How can we design algorithms that are competitive against the optimal algorithm in hindsight?
+1. Online Algorithms: An algorithm is called online if it receives the input over time and has to make irrevokable decisions without being revealed the future. How can we design algorithms that perform wellwhen comparing against the optimal algorithm in hindsight, measured in low competitive ratio (= the cost of the algorithm **divided by** the cost of the optimum) or low regret (= the cost of the algorithm **less** the cost of the optimum)?
 2. [Learning-augmented Algorithms](https://algorithms-with-predictions.github.io/): Inspired by the successes of machine learning, how can an algorithm utilize a prediction oracle that provides us with some hint of the problem with no guarantee of correctness? Can we design algorithms that take advantage of predictions when they are good, while not misled too much even if predictions are grossly erroneous? 
-3. Mechanism Design: Many settings in the economics involves decision making uncertainty. When the participants in the algorithm may not be truthful but trying to maximize their own utility, what is the cost of making the algorithm strategyproof (= making every participant truthfully reporting an equilibrium)?
+3. Mechanism Design: Many settings in the economics involves decision making uncertainty. When the participants in the algorithm may not be truthful but trying to maximize their own utility, what is the cost of making the algorithm truthful? How does mechanism design interact with predictions? What about online mechanism design?
 <!-- 4. When only given the ordinal preferences of the voter, can algorithm still select good candidates with respect to a cardinal utility? -->
 
-Occasionally, I also participate in empirical and experimental researches, mostly by providing theoretical insights and justifications.
+Occasionally, I participate in empirical and experimental researches, mostly by providing theoretical insights and justifications.
 <!-- I am also interested in performing inter-displinery research involving theoretical analysis. Occasionally, I perform some ML research, with the focus on novel applications derived from insights about the world. -->
 
 I enjoying talking to people with different backgrounds and distinct insights. If you are interested in potential collaboration or want to talk about anything, feel free to email me at yichenhuang@g.harvard.edu.
@@ -23,23 +23,24 @@ I enjoying talking to people with different backgrounds and distinct insights. I
 <!-- (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?) -->
 
 ## Research
-(&alpha;) denotes alphabetical ordering, which is conventional in theoretical computer science; (\*) denotes equal contributions.
+Authors are listed in alphabetical ordering by default unless they are not, in which case (\*) denotes equal contributions.
+<!-- (&alpha;) denotes  ordering, which is conventional in theoretical computer science;  -->
 
 ### Theoretical Computer Science
 <!-- It is conventional in  to list the authors in alphabetical ordering. -->
 <!-- <sub>It is conventional denotes alphabetical ordering which is conventional in theoretical computer science, (\*) denotes equal contributions.<sub> -->
 
 The Mixed Birth-death/death-Birth Moran Process\\
-(&alpha;) David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
+David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
 ITCS 2026
 
 Online and Dynamic Metric Embeddings with Monotone Recourse\\
-(&alpha;) Christian Coester, **Yichen Huang**\\
+Christian Coester, **Yichen Huang**\\
 Manuscript
 
 ### EconCS
 [Form vs Information: The Regimes of Data Property Rights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626)\\
-(&alpha;) **Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng\\
+**Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng\\
 Manuscript
 
 ### Machine Learning
