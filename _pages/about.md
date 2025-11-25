@@ -30,7 +30,7 @@ Authors are listed in alphabetical ordering by default unless they are not, in w
 <!-- It is conventional in  to list the authors in alphabetical ordering. -->
 <!-- <sub>It is conventional denotes alphabetical ordering which is conventional in theoretical computer science, (\*) denotes equal contributions.<sub> -->
 
-The Mixed Birth-death/death-Birth Moran Process\\
+[The Mixed Birth-death/death-Birth Moran Process](https://arxiv.org/abs/2511.18252)\\
 David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
 ITCS 2026
 
