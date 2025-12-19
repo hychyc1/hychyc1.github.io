@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at Harvard University under the wise guidance of [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/). Previously, I completed my undergraduate study at the University of Oxford, where I was fortunate to work with [Prof. Christian Coester](https://www.cs.ox.ac.uk/people/christian.coester/) and [Prof. Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/).
+I am a Ph.D. student in Computer Science at Harvard University under the wise guidance of [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/). Previously, I completed my undergraduate studies at the University of Oxford, where I was fortunate to work with [Prof. Christian Coester](https://www.cs.ox.ac.uk/people/christian.coester/) and [Prof. Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/).
 
 I am broadly interested in theoretical computer science, and particularly decision-making under uncertainty, including:
-1. Online Algorithms: An algorithm is called online if it receives the input over time and has to make irrevokable decisions without being revealed the future. How can we design algorithms that perform wellwhen comparing against the optimal algorithm in hindsight, measured in low competitive ratio (the cost of the algorithm *divided by* the cost of the optimum) or low regret (the cost of the algorithm *less* the cost of the optimum)?
-2. [Learning-augmented Algorithms](https://algorithms-with-predictions.github.io/): Inspired by the successes of machine learning, how can an algorithm utilize a prediction oracle that provides us with some hint of the problem with no guarantee of correctness? Can we design algorithms that take advantage of predictions when they are good, while not misled too much even if predictions are grossly erroneous? 
-3. Mechanism Design: Many settings in the economics involves decision making uncertainty. When the participants in the algorithm are individually trying to maximize their own utilities, what is the cost of making the algorithm truthful? How does mechanism design interact with predictions? What about online mechanism design when participants arrive sequentially?
+1. Online Algorithms: An algorithm is called online if it receives the input over time and has to make irrevokable decisions without knowing the future. How can we design algorithms that perform wellwhen comparing against the optimal algorithm in hindsight, measured in low competitive ratio (the cost of the algorithm *divided by* the cost of the optimum) or low regret (the cost of the algorithm *less* the cost of the optimum)?
+2. [Learning-augmented Algorithms](https://algorithms-with-predictions.github.io/): Inspired by the successes of machine learning, how can an algorithm utilize a prediction oracle that provides us with some hint of the problem with no guarantee of correctness? Can we design algorithms that take advantage of accurate predictions while minimizing the impact of incorrect ones? 
+3. Mechanism Design: Many settings in economics involve decision-making uncertainty. When the participants in the algorithm are individually trying to maximize their own utilities, what is the cost of making the algorithm truthful? How does mechanism design interact with predictions? What about online mechanism design when participants arrive sequentially?
 <!-- 4. When only given the ordinal preferences of the voter, can algorithm still select good candidates with respect to a cardinal utility? -->
 
-Occasionally, I participate in empirical and experimental researches, mostly by providing theoretical insights and justifications.
+Occasionally, I participate in empirical and experimental research, mostly by providing theoretical insights and justifications.
 <!-- I am also interested in performing inter-displinery research involving theoretical analysis. Occasionally, I perform some ML research, with the focus on novel applications derived from insights about the world. -->
 
-I enjoying talking to people with different backgrounds and distinct insights. If you are interested in a potential collaboration or would like to talk about anything, feel free to email me at [\{firstname\}\{lastname\}]@g.harvard.edu.
+I enjoy talking to people with different backgrounds and distinct insights. If you are interested in a potential collaboration or would like to talk about anything, feel free to email me at [\{firstname\}\{lastname\}]@g.harvard.edu.
 
 <!-- (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?) -->
 
@@ -72,4 +72,4 @@ Subreviewer for ITCS 2026.
 TA for Harvard CS 2380 Optimized Democracy, Fall 2025.
 
 ## Misc
-Outside of academics, I enjoy playing Poker and cooking. I am recently quite into bouldering. I used to participate extensively in competitive programming, having won a gold medal at ICPC NWERC 2022 and advancing to the World Finals. I also spend some time in (Mandarin Chinese) competitive debating. I currently lead the Harvard Chinese Debate Team, and I used to be the captain of the Chinese Debate Team at Oxford with whom I was the runner-up in the Chinese Debate World Cup.
+Outside of academics, I enjoy playing Poker and cooking. I am recently quite into bouldering. I used to participate extensively in competitive programming, having won a gold medal at ICPC NWERC 2022 and advancing to the World Finals. I also spend some time in (Mandarin Chinese) competitive debating. I currently lead the Harvard Chinese Debate Team, and I used to be the captain of the Chinese Debate Team at Oxford, with whom I was the runner-up in the Chinese Debate World Cup.
