@@ -45,7 +45,7 @@ Manuscript
 
 ### Machine Learning
 Balancing Growth and Equity: Multi-Objective Optimization in Urban Renewal with Deep Reinforcement Learning\\
-Jianghao Yu\*, **Yiche Huang**\*, Yuming Lin, Yu Zheng, Yuge Cui, Michael Mitzenmacher, Yong Li, and Li Tian\\
+Jianghao Yu\*, **Yichen Huang**\*, Yuming Lin, Yu Zheng, Yuge Cui, Michael Mitzenmacher, Yong Li, and Li Tian\\
 Manuscript
 
 [Efficient Task Grouping Through Samplewise Optimisation Landscape Analysis](https://ieeexplore.ieee.org/document/11078907)\\
