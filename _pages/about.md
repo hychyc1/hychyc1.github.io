@@ -34,14 +34,18 @@ Authors are listed in alphabetical ordering unless they are not, in which case (
 David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
 ITCS 2026
 
-Online and Dynamic Metric Embeddings with Monotone Recourse\\
+Online Monotone Metric Embeddings\\
 Christian Coester, **Yichen Huang**\\
-Manuscript
+In submission
+
+<!-- Competitive Online Clustering with Movement Cost\\
+Christian Coester, **Yichen Huang**, Michael Mitzenmacher\\
+Manuscript -->
 
 ### EconCS
 [Form vs Information: The Regimes of Data Property Rights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626)\\
 **Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng\\
-Manuscript
+In submission
 
 ### Machine Learning
 Balancing Growth and Equity: Multi-Objective Optimization in Urban Renewal with Deep Reinforcement Learning\\
@@ -57,7 +61,7 @@ Shannon R. Petersen, David Kohan Marzagão, Georgina L. Gregory, **Yichen Huang*
 Angewandte Chemie, 2025
 
 ## Talks
-**Online and Dynamic Metric Embeddings with Monotone Recourse**\\
+**Online Monotone Metric Embeddings**\\
 TGINF (Harvard Student Theory Seminar) 2025\\
 Workshop on Local Algorithms 2025
 
@@ -66,10 +70,13 @@ Workshop on Local Algorithms 2025
 I currently co-organize [TGINF](https://sites.google.com/view/harvardtginf/), a theory seminar for graduate students and postdocs at Harvard.
 
 ## Service
-Subreviewer for ITCS 2026.
+PC: EC 2026. \\
+Reviewer: ITCS 2026, ICALP 2026.
 
 ## Teaching
 TA for Harvard CS 2380 Optimized Democracy, Fall 2025.
 
 ## Misc
-Outside of academics, I enjoy playing Poker and cooking. I am recently quite into bouldering. I used to participate extensively in competitive programming, having won a gold medal at ICPC NWERC 2022 and advancing to the World Finals. I also spend some time in (Mandarin Chinese) competitive debating. I currently lead the Harvard Chinese Debate Team, and I used to be the captain of the Chinese Debate Team at Oxford, with whom I was the runner-up in the Chinese Debate World Cup.
+Outside of academics, I enjoy playing Poker and cooking. I am recently quite into bouldering. I used to participate extensively in competitive programming, having won a gold medal at ICPC NWERC 2022 and advancing to the World Finals. 
+
+I also spend some time in (Mandarin Chinese) competitive debating. I currently lead the Harvard Chinese Debate Team, and I used to be the captain of the Chinese Debate Team at Oxford, with whom I was the runner-up in the Chinese Debate World Cup.
