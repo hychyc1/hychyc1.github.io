@@ -9,16 +9,17 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at Harvard University under the wise guidance of [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/). Previously, I completed my undergraduate studies at the University of Oxford, where I was fortunate to work with [Prof. Christian Coester](https://www.cs.ox.ac.uk/people/christian.coester/) and [Prof. Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/).
 
-I am broadly interested in theoretical computer science, and particularly decision-making under uncertainty, including:
-1. Online Algorithms: An algorithm is called online if it receives the input over time and has to make irrevokable decisions without knowing the future. How can we design algorithms that perform wellwhen comparing against the optimal algorithm in hindsight, measured in low competitive ratio (the cost of the algorithm *divided by* the cost of the optimum) or low regret (the cost of the algorithm *less* the cost of the optimum)?
+I am broadly interested in theoretical computer science, and particularly the role of information and (their lackof) in decision making. More concretely, I like to study:
+1. Online Algorithms: An algorithm is called online if it receives the input over time and has to make irrevokable decisions without knowing the future. Can we design algorithms that perform wellwhen comparing against the optimal algorithm in hindsight?
 2. [Learning-augmented Algorithms](https://algorithms-with-predictions.github.io/): Inspired by the successes of machine learning, how can an algorithm utilize a prediction oracle that provides us with some hint of the problem with no guarantee of correctness? Can we design algorithms that take advantage of accurate predictions while minimizing the impact of incorrect ones? 
-3. Mechanism Design: Many settings in economics involve decision-making uncertainty. When the participants in the algorithm are individually trying to maximize their own utilities, what is the cost of making the algorithm truthful? How does mechanism design interact with predictions? What about online mechanism design when participants arrive sequentially?
+3. Mechanism Design: When the participants are individually trying to maximize their own utilities, can we design efficient algorithms while eliciting truthful information?
+<!-- 4. How does mechanism design interact with predictions? What about online mechanism design when participants arrive sequentially? -->
 <!-- 4. When only given the ordinal preferences of the voter, can algorithm still select good candidates with respect to a cardinal utility? -->
 
-Occasionally, I participate in empirical and experimental research, mostly by providing theoretical insights and justifications.
+Very occasionally, I participate in empirical and experimental research, mostly by providing theoretical insights and justifications.
 <!-- I am also interested in performing inter-displinery research involving theoretical analysis. Occasionally, I perform some ML research, with the focus on novel applications derived from insights about the world. -->
 
-I enjoy talking to people with different backgrounds and distinct insights. If you are interested in a potential collaboration or would like to talk about anything, feel free to email me at [\{firstname\}\{lastname\}]@g.harvard.edu.
+I enjoy talking to people with different backgrounds and distinct insights. If you are interested in a potential collaboration or would like to talk about anything, do not hesitate to reach out at [\{firstname\}\{lastname\}]@g.harvard.edu.
 
 <!-- (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?) -->
 
@@ -62,11 +63,14 @@ Angewandte Chemie, 2025
 
 ## Talks
 **Online Monotone Metric Embeddings**\\
-TGINF (Harvard Student Theory Seminar), 2025\\
-Workshop on Local Algorithms, 2025
+TGINF (Harvard Student Theory Seminar) 2025\\
+Workshop on Local Algorithms 2025
 
 **Competitive Online Clustering with Movement Cost**\\
 Dagstuhl Workshop 26131: New Trends in Clustering, 2026
+
+**The Mixed Birth-death/death-Birth Moran Process**\\
+ITCS 2026
 
 ## Seminars and Organizations
 I currently co-organize [TGINF](https://sites.google.com/view/harvardtginf/), a theory seminar for graduate students and postdocs at Harvard.
@@ -79,6 +83,7 @@ Reviewer: ITCS 2026, ICALP 2026.
 TA for Harvard CS 2380 Optimized Democracy, Fall 2025.
 
 ## Misc
-Outside of academics, I enjoy playing Poker and cooking. I am recently quite into bouldering. I used to participate extensively in competitive programming, having won a gold medal at ICPC NWERC 2022 and advancing to the World Finals. 
+Outside of academics, I enjoy playing Poker. I am recently quite into bouldering. 
+<!-- I used to participate in competitive programming, having won a gold medal at ICPC NWERC 2022 and advancing to the World Finals.  -->
 
 I also spend some time in (Mandarin Chinese) competitive debating. I currently lead the Harvard Chinese Debate Team, and I used to be the captain of the Chinese Debate Team at Oxford, with whom I was the runner-up in the Chinese Debate World Cup.
