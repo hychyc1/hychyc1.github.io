@@ -38,9 +38,9 @@ Online Monotone Metric Embeddings\\
 Christian Coester, **Yichen Huang**\\
 In submission
 
-<!-- Competitive Online Clustering with Movement Cost\\
+Competitive Online Clustering with Movement Cost\\
 Christian Coester, **Yichen Huang**, Michael Mitzenmacher\\
-Manuscript -->
+In submission
 
 ### EconCS
 [Form vs Information: The Regimes of Data Property Rights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626)\\
@@ -48,9 +48,9 @@ Manuscript -->
 In submission
 
 ### Machine Learning
-Balancing Growth and Equity: Multi-Objective Optimization in Urban Renewal with Deep Reinforcement Learning\\
+<!-- Balancing Growth and Equity: Multi-Objective Optimization in Urban Renewal with Deep Reinforcement Learning\\
 Jianghao Yu\*, **Yichen Huang**\*, Yuming Lin, Yu Zheng, Yuge Cui, Michael Mitzenmacher, Yong Li, and Li Tian\\
-Manuscript
+Manuscript -->
 
 [Efficient Task Grouping Through Samplewise Optimisation Landscape Analysis](https://ieeexplore.ieee.org/document/11078907)\\
 Anshul Thakur\*, **Yichen Huang**\*, Soheila Molaei, Yujiang Wang, David A. Clifton\\
@@ -62,9 +62,11 @@ Angewandte Chemie, 2025
 
 ## Talks
 **Online Monotone Metric Embeddings**\\
-TGINF (Harvard Student Theory Seminar) 2025\\
-Workshop on Local Algorithms 2025
+TGINF (Harvard Student Theory Seminar), 2025\\
+Workshop on Local Algorithms, 2025
 
+**Competitive Online Clustering with Movement Cost**\\
+Dagstuhl Workshop 26131: New Trends in Clustering, 2026
 
 ## Seminars and Organizations
 I currently co-organize [TGINF](https://sites.google.com/view/harvardtginf/), a theory seminar for graduate students and postdocs at Harvard.
