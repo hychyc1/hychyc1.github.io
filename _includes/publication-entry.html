@@ -1,0 +1,21 @@
+{% include base_path %}
+
+<div class="list__item">
+  <article class="archive__item">
+    <h2 class="archive__item-title">
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+    </h2>
+
+    <p>
+      {% if post.authors %}
+        {{ post.authors }}
+      {% endif %}
+      {% if post.authors and post.venue %}
+        <br>
+      {% endif %}
+      {% if post.venue or post.date %}
+        {% if post.venue %}<i>{{ post.venue }}</i>{% endif %}{% if post.venue and post.date %}, {% endif %}{% if post.date %}{{ post.date | date: "%Y" }}{% endif %}
+      {% endif %}
+    </p>
+  </article>
+</div>

@@ -11,6 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% assign working_papers = site.publications | where_exp: "post", "post.working == 'y'" | sort: "date" | reverse %}
+{% assign published_papers = site.publications | where_exp: "post", "post.working != 'y'" | sort: "date" | reverse %}
+
+{% for post in working_papers %}
+  {% include publication-entry.html %}
+{% endfor %}
+
+{% for post in published_papers %}
+  {% include publication-entry.html %}
 {% endfor %}
