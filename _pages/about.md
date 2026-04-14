@@ -23,7 +23,7 @@ I enjoy talking to people with different backgrounds and perspectives. If you ar
 <!-- (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?) -->
 
 ## Research
-Authors are listed alphabetically unless noted otherwise; (\*) denotes equal contribution.
+Authors are listed alphabetically unless they are not; (\*) denotes equal contribution.
 <!-- (&alpha;) denotes  ordering, which is conventional in theoretical computer science;  -->
 
 ### Theoretical Computer Science
