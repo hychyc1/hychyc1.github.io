@@ -69,10 +69,9 @@ Dagstuhl Workshop 26131: New Trends in Clustering, 2026
 **The Mixed Birth-death/death-Birth Moran Process**\\
 ITCS 2026
 
-## Seminars and Organizations
+## Service and Organizations
 I currently co-organize [TGINF](https://sites.google.com/view/harvardtginf/), a theory seminar for graduate students and postdocs at Harvard.
 
-## Service
 PC: EC 2026. \\
 Reviewer: ITCS 2026, ICALP 2026.
 
@@ -83,6 +82,6 @@ TA for Harvard CS 2380 Optimized Democracy, Fall 2025.
 Outside academia, I enjoy playing poker and have recently gotten quite into bouldering.
 <!-- I used to participate in competitive programming, having won a gold medal at ICPC NWERC 2022 and advancing to the World Finals.  -->
 
-I also spend time in (Mandarin Chinese) competitive debating. I currently lead the Harvard Chinese Debate Team, and I previously captained Oxford's Chinese Debate Team, with whom I was the runner-up at the Chinese Debate World Cup.
+I also spend some time in (Mandarin Chinese) competitive debating. I currently lead the Harvard Chinese Debate Team, and I previously captained Oxford's Chinese Debate Team, with whom I was the runner-up at the Chinese Debate World Cup.
 
 (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?)
