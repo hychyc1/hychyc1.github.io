@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at Harvard University under the wise guidance of [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/). I visited Peking University during Spring 2026, hosted by [Prof. Shaofeng Jiang](https://www.shaofengjiang.cn/). Prior to that, I completed my undergraduate studies at the University of Oxford, where I had the pleasure of working with [Prof. Christian Coester](https://www.cs.ox.ac.uk/people/christian.coester/) and [Prof. Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/). My Erd&#337;s number is 3 via the chain YH &rarr; Michael Mitzenmacher &rarr; Joel H. Spencer &rarr; Paul Erdős.
+I am a Ph.D. student in Computer Science at Harvard University under the wise guidance of [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/). I am currently visiting Peking University during Spring 2026, hosted by [Prof. Shaofeng Jiang](https://www.shaofengjiang.cn/). Prior to that, I completed my undergraduate studies at the University of Oxford, where I had the pleasure of working with [Prof. Christian Coester](https://www.cs.ox.ac.uk/people/christian.coester/) and [Prof. Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/). My Erd&#337;s number is 3 via the chain YH &rarr; Michael Mitzenmacher &rarr; Joel H. Spencer &rarr; Paul Erdős.
 
 I am broadly interested in theoretical computer science, especially in how information (and its absence) shape decision-making. In particular, I work on:
 1. Online Algorithms: Online algorithms receive input over time and must make irrevocable decisions without knowing the future. How can we design algorithms that remain competitive with the offline optimum, which gets to see the entire input in hindsight?
