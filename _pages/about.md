@@ -32,11 +32,11 @@ Competitive Online Clustering with Movement Cost\\
 Christian Coester, **Yichen Huang**, Michael Mitzenmacher\\
 In submission
 
-Online Monotone Metric Embeddings\\
+Online Monotone Metric Embeddings([10 min talk](https://youtu.be/gGlVxqaLb4s?si=8GjLgZb-T549qm4E))\\
 Christian Coester, **Yichen Huang**\\
 ICALP 2026
 
-[The Mixed Birth-death/death-Birth Moran Process](https://arxiv.org/abs/2511.18252)([video](https://youtu.be/RxWbd2SH-zg?si=f3wSqIhKApJE81hB))\\
+[The Mixed Birth-death/death-Birth Moran Process](https://arxiv.org/abs/2511.18252)([20 min talk](https://youtu.be/RxWbd2SH-zg?si=f3wSqIhKApJE81hB))\\
 David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
 ITCS 2026
 
