@@ -34,7 +34,7 @@ In submission
 
 Online Monotone Metric Embeddings\\
 Christian Coester, **Yichen Huang**\\
-ICALP 2026
+To appear at ICALP 2026
 
 [The Mixed Birth-death/death-Birth Moran Process](https://arxiv.org/abs/2511.18252)\\
 David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
