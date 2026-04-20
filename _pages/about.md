@@ -53,7 +53,7 @@ Manuscript -->
 
 [Efficient Task Grouping Through Samplewise Optimisation Landscape Analysis](https://ieeexplore.ieee.org/document/11078907)\\
 Anshul Thakur\*, **Yichen Huang**\*, Soheila Molaei, Yujiang Wang, David A. Clifton\\
-IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025
+TPAMI, 2025
 
 [Property Prediction of Bio-Derived Block Copolymer Thermoplastic Elastomers Using Graph Kernel Methods](https://onlinelibrary.wiley.com/doi/10.1002/anie.202411097)\\
 Shannon R. Petersen, David Kohan Marzagão, Georgina L. Gregory, **Yichen Huang**, David A. Clifton, Charlotte K. Williams, Clive R. Siviour\\
