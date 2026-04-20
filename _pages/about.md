@@ -28,17 +28,18 @@ Authors are listed alphabetically unless they are not, in which case (\*) denote
 <!-- It is conventional in  to list the authors in alphabetical ordering. -->
 <!-- <sub>It is conventional denotes alphabetical ordering which is conventional in theoretical computer science, (\*) denotes equal contributions.<sub> -->
 
+Competitive Online Clustering with Movement Cost\\
+Christian Coester, **Yichen Huang**, Michael Mitzenmacher\\
+In submission
+
+Online Monotone Metric Embeddings\\
+Christian Coester, **Yichen Huang**\\
+ICALP 2026
+
 [The Mixed Birth-death/death-Birth Moran Process](https://arxiv.org/abs/2511.18252)\\
 David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
 ITCS 2026
 
-Online Monotone Metric Embeddings\\
-Christian Coester, **Yichen Huang**\\
-In submission
-
-Competitive Online Clustering with Movement Cost\\
-Christian Coester, **Yichen Huang**, Michael Mitzenmacher\\
-In submission
 
 ### EconCS
 [Form vs Information: The Regimes of Data Property Rights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626)\\
