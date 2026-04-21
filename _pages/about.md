@@ -22,10 +22,10 @@ I enjoy talking to people with different backgrounds and perspectives. If you ar
 
 ## Working Papers
 Competitive Online Clustering with Movement Cost\\
-Christian Coester, **Yichen Huang**, Michael Mitzenmacher\\
+Christian Coester, **Yichen Huang**, Michael Mitzenmacher
 
 [Form vs Information: The Regimes of Data Property Rights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626)\\
-**Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng\\
+**Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng
 
 ## Selected Publications
 Online Monotone Metric Embeddings ([10 min](https://youtu.be/gGlVxqaLb4s?si=8GjLgZb-T549qm4E))\\
