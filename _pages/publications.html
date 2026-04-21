@@ -7,12 +7,10 @@ author_profile: true
 
 {% assign sorted_publications = site.publications | sort: "date" | reverse %}
 
-{% if site.author.googlescholar %}
 <div class="wordwrap">
-  You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a> and <a href="https://dblp.org/pid/130/4010-1.html">DBLP</a>.<br>
+  You can also find my papers on <a href="{{ site.author.googlescholar }}">Google Scholar</a> and <a href="{{ site.author.dblp }}">DBLP</a>.<br>
   Authors are listed alphabetically unless they are not, in which case (*) denotes equal contribution.
 </div>
-{% endif %}
 
 <h2>Manuscripts</h2>
 {% assign has_manuscripts = false %}
