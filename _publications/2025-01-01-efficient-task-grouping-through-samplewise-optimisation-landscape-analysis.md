@@ -5,7 +5,7 @@ permalink: /publication/efficient-task-grouping-through-samplewise-optimisation-
 date: 2025-01-01
 category: machine-learning
 authors: 'Anshul Thakur*, <strong>Yichen Huang</strong>*, Soheila Molaei, Yujiang Wang, David A. Clifton'
-venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
+venue: 'TPAMI'
 paperurl: 'https://ieeexplore.ieee.org/document/11078907'
 ---
 

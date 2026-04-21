@@ -11,13 +11,23 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign working_papers = site.publications | where_exp: "post", "post.working == 'y'" | sort: "date" | reverse %}
-{% assign published_papers = site.publications | where_exp: "post", "post.working != 'y'" | sort: "date" | reverse %}
+{% assign manuscripts = site.publications | where_exp: "post", "post.working == 'y'" | sort: "date" | reverse %}
+{% assign publications = site.publications | where_exp: "post", "post.working != 'y'" | sort: "date" | reverse %}
 
-{% for post in working_papers %}
-  {% include publication-entry.html %}
-{% endfor %}
+<h2>Manuscripts</h2>
+{% if manuscripts.size > 0 %}
+  {% for post in manuscripts %}
+    {% include publication-entry.html %}
+  {% endfor %}
+{% else %}
+  <p>No manuscripts at the moment.</p>
+{% endif %}
 
-{% for post in published_papers %}
-  {% include publication-entry.html %}
-{% endfor %}
+<h2>Publications</h2>
+{% if publications.size > 0 %}
+  {% for post in publications %}
+    {% include publication-entry.html %}
+  {% endfor %}
+{% else %}
+  <p>No publications at the moment.</p>
+{% endif %}
