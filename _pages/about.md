@@ -14,7 +14,9 @@ I am broadly interested in theoretical computer science, especially in how infor
 2. [Learning-augmented Algorithms](https://algorithms-with-predictions.github.io/): Inspired by the successes of machine learning, how can algorithms make principled use of predictions that may be highly informative but come with no guarantee of correctness? Can we capture the upside of accurate predictions while staying robust to bad ones?
 3. Mechanism Design: When participants act strategically to maximize their own utilities, can we still design efficient algorithms that elicit truthful information?
 
-I also like to turn observations and insights from real-world phenomena into clean mathematical questions and solutions, often in an EconCS setting. Occasionally, I participate in empirical and experimental research, usually by contributing theoretical guarantees and conceptual framing.
+I also like to turn observations and insights from real-world phenomena into clean mathematical questions and solutions, often in an EconCS setting. 
+
+<!-- Occasionally, I participate in empirical and experimental research, usually by contributing theoretical guarantees and conceptual framing. -->
 
 I enjoy talking to people with different backgrounds and perspectives. If you are interested in collaborating, or simply want to chat about anything, feel free to reach out at [\{firstname\}\{lastname\}]@g.harvard.edu.
 
