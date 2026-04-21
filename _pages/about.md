@@ -39,12 +39,12 @@ ITCS 2026
 ## Talks
 **Online Monotone Metric Embeddings**\\
 TGINF (Harvard Student Theory Seminar) 2025\\
-Workshop on Local Algorithms 2025
+Workshop on Local Algorithms 2025\\
 ICALP 2026
 
 **Competitive Online Clustering with Movement Cost**\\
-Dagstuhl Workshop 26131: New Trends in Clustering, 2026
-Highlights of Algorithms, 2026
+Dagstuhl Workshop 26131: New Trends in Clustering, 2026\\
+Highlights of Algorithms 2026
 
 **The Mixed Birth-death/death-Birth Moran Process**\\
 ITCS 2026
@@ -57,14 +57,11 @@ Subreviewer: ITCS 2026, ICALP 2026.
 
 I have been (or will be) the TA for the following classes:
 - Harvard CS 2380 Optimized Democracy, Fall 2025.
-- Harvard CS 2210 Probabilistic Analysis and Algorithms, Fall 2026.
+- Harvard CS 2230 Probabilistic Analysis and Algorithms, Fall 2026.
 
 ## Misc
 My Erd&#337;s number is 3 via the chain YH &rarr; Michael Mitzenmacher &rarr; Joel H. Spencer &rarr; Paul Erdős.
 
-Outside academia, I enjoy playing poker and have recently gotten quite into bouldering.
-<!-- I used to participate in competitive programming, having won a gold medal at ICPC NWERC 2022 and advancing to the World Finals.  -->
-
-I also spend some time in (Mandarin Chinese) competitive debating. I currently lead the Harvard Chinese Debate Team, and I previously captained Oxford's Chinese Debate Team, with whom I was the runner-up at the Chinese Debate World Cup.
+Outside academia, I enjoy playing poker and have recently gotten quite into bouldering. I also spend some time in (Mandarin Chinese) competitive debating. I currently lead the Harvard Chinese Debate Team, and I previously captained Oxford's Chinese Debate Team, with whom I was the runner-up at the Chinese Debate World Cup.
 
 (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?)
