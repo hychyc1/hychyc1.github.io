@@ -70,9 +70,15 @@
   margin-bottom: 0.35em;
 }
 
+.page__content .publication-entry__title,
+.page__content .publication-entry__title a,
+.page__content .publication-entry__title strong,
+.page__content .publication-entry__title em {
+  font-size: $type-size-5 !important;
+}
+
 .publication-entry__title {
   margin: 0;
-  font-size: $type-size-5;
   line-height: 1.5;
 }
 
