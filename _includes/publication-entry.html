@@ -1,12 +1,19 @@
 {% include base_path %}
 
 <div class="list__item">
-  <article class="archive__item">
-    <h2 class="archive__item-title">
+  <article class="archive__item publication-entry">
+    <h3 class="archive__item-title publication-entry__title">
       <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
-    </h2>
+      {% if post.talks %}
+        (
+        {% for talk in post.talks %}
+          <a href="{{ talk.url }}">{{ talk.label }}</a>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+        )
+      {% endif %}
+    </h3>
 
-    <p>
+    <p class="publication-entry__meta">
       {% if post.authors %}
         {{ post.authors }}
       {% endif %}
@@ -17,5 +24,11 @@
         {% if post.venue %}<i>{{ post.venue }}</i>{% endif %}{% if post.venue and post.date %}, {% endif %}{% if post.date %}{{ post.date | date: "%Y" }}{% endif %}
       {% endif %}
     </p>
+
+    {% if post.paperurl %}
+      <p class="publication-entry__links">
+        <a href="{{ post.paperurl }}">Paper</a>
+      </p>
+    {% endif %}
   </article>
 </div>

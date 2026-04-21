@@ -6,8 +6,10 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a> and <a href="https://dblp.org/pid/130/4010-1.html">DBLP</a>.</div>
 {% endif %}
+
+<p>Authors are listed alphabetically unless they are not, in which case (*) denotes equal contribution.</p>
 
 {% include base_path %}
 

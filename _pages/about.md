@@ -20,44 +20,23 @@ I enjoy talking to people with different backgrounds and perspectives. If you ar
 
 <!-- (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?) -->
 
-## Research
-Authors are listed alphabetically unless they are not, in which case (\*) denotes equal contribution.
-<!-- (&alpha;) denotes  ordering, which is conventional in theoretical computer science;  -->
-
-### Theoretical Computer Science
-<!-- It is conventional in  to list the authors in alphabetical ordering. -->
-<!-- <sub>It is conventional denotes alphabetical ordering which is conventional in theoretical computer science, (\*) denotes equal contributions.<sub> -->
-
+## Working Papers
 Competitive Online Clustering with Movement Cost\\
 Christian Coester, **Yichen Huang**, Michael Mitzenmacher\\
 In submission
 
-Online Monotone Metric Embeddings ([10 min talk](https://youtu.be/gGlVxqaLb4s?si=8GjLgZb-T549qm4E))\\
-Christian Coester, **Yichen Huang**\\
-ICALP 2026
-
-[The Mixed Birth-death/death-Birth Moran Process](https://arxiv.org/abs/2511.18252) ([20 min talk](https://youtu.be/RxWbd2SH-zg?si=f3wSqIhKApJE81hB))\\
-David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
-ITCS 2026
-
-
-### EconCS
 [Form vs Information: The Regimes of Data Property Rights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626)\\
 **Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng\\
 In submission
 
-### Machine Learning
-<!-- Balancing Growth and Equity: Multi-Objective Optimization in Urban Renewal with Deep Reinforcement Learning\\
-Jianghao Yu\*, **Yichen Huang**\*, Yuming Lin, Yu Zheng, Yuge Cui, Michael Mitzenmacher, Yong Li, and Li Tian\\
-Manuscript -->
+## Selected Publications
+Online Monotone Metric Embeddings ([10 min](https://youtu.be/gGlVxqaLb4s?si=8GjLgZb-T549qm4E))\\
+Christian Coester, **Yichen Huang**\\
+ICALP 2026
 
-[Efficient Task Grouping Through Samplewise Optimisation Landscape Analysis](https://ieeexplore.ieee.org/document/11078907)\\
-Anshul Thakur\*, **Yichen Huang**\*, Soheila Molaei, Yujiang Wang, David A. Clifton\\
-TPAMI, 2025
-
-[Property Prediction of Bio-Derived Block Copolymer Thermoplastic Elastomers Using Graph Kernel Methods](https://onlinelibrary.wiley.com/doi/10.1002/anie.202411097)\\
-Shannon R. Petersen, David Kohan Marzagão, Georgina L. Gregory, **Yichen Huang**, David A. Clifton, Charlotte K. Williams, Clive R. Siviour\\
-Angewandte Chemie, 2025
+[The Mixed Birth-death/death-Birth Moran Process](https://arxiv.org/abs/2511.18252) ([20 min](https://youtu.be/RxWbd2SH-zg?si=f3wSqIhKApJE81hB))\\
+David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
+ITCS 2026
 
 ## Talks
 **Online Monotone Metric Embeddings**\\
