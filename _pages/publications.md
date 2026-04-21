@@ -16,29 +16,10 @@ author_profile: true
 <h2>Manuscripts</h2>
 {% assign has_manuscripts = false %}
 {% for post in sorted_publications %}
-  {% if post.working == 'y' and post.venue != 'In submission' %}
-    {% assign has_manuscripts = true %}
-    <div class="list__item">
-      <article class="archive__item publication-entry">
-        <p class="publication-entry__title">
-          {% if post.paperurl %}
-            <a href="{{ post.paperurl }}">{{ post.title }}</a>
-          {% else %}
-            {{ post.title }}
-          {% endif %}
-          {% if post.talks %}
-            (
-            {% for talk in post.talks %}
-              <a href="{{ talk.url }}">{{ talk.label }}</a>{% unless forloop.last %}, {% endunless %}
-            {% endfor %}
-            )
-          {% endif %}
-          <br>
-          {{ post.authors }}
-        </p>
-      </article>
-    </div>
-  {% endif %}
+{% if post.working == 'y' and post.venue != 'In submission' %}
+{% assign has_manuscripts = true %}
+{% include publication-entry.html show_venue=false %}
+{% endif %}
 {% endfor %}
 {% if has_manuscripts == false %}
   <p>No manuscripts at the moment.</p>
@@ -47,33 +28,10 @@ author_profile: true
 <h2>Publications</h2>
 {% assign has_publications = false %}
 {% for post in sorted_publications %}
-  {% if post.working != 'y' %}
-    {% assign has_publications = true %}
-    <div class="list__item">
-      <article class="archive__item publication-entry">
-        <p class="publication-entry__title">
-          {% if post.paperurl %}
-            <a href="{{ post.paperurl }}">{{ post.title }}</a>
-          {% else %}
-            {{ post.title }}
-          {% endif %}
-          {% if post.talks %}
-            (
-            {% for talk in post.talks %}
-              <a href="{{ talk.url }}">{{ talk.label }}</a>{% unless forloop.last %}, {% endunless %}
-            {% endfor %}
-            )
-          {% endif %}
-          <br>
-          {{ post.authors }}
-          {% if post.venue %}
-            <br>
-            <i>{{ post.venue }}</i>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
-          {% endif %}
-        </p>
-      </article>
-    </div>
-  {% endif %}
+{% if post.working != 'y' %}
+{% assign has_publications = true %}
+{% include publication-entry.html show_venue=true %}
+{% endif %}
 {% endfor %}
 {% if has_publications == false %}
   <p>No publications at the moment.</p>

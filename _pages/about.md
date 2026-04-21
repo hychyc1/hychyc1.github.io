@@ -40,9 +40,11 @@ ITCS 2026
 **Online Monotone Metric Embeddings**\\
 TGINF (Harvard Student Theory Seminar) 2025\\
 Workshop on Local Algorithms 2025
+ICALP 2026
 
 **Competitive Online Clustering with Movement Cost**\\
 Dagstuhl Workshop 26131: New Trends in Clustering, 2026
+Highlights of Algorithms, 2026
 
 **The Mixed Birth-death/death-Birth Moran Process**\\
 ITCS 2026
@@ -51,9 +53,11 @@ ITCS 2026
 I currently co-organize [TGINF](https://sites.google.com/view/harvardtginf/), a theory seminar for graduate students and postdocs at Harvard.
 
 PC: EC 2026. \\
-Reviewer: ITCS 2026, ICALP 2026.
+Subreviewer: ITCS 2026, ICALP 2026.
 
-TA for Harvard CS 2380 Optimized Democracy, Fall 2025.
+I have been (or will be) the TA for the following classes:
+- Harvard CS 2380 Optimized Democracy, Fall 2025.
+- Harvard CS 2210 Probabilistic Analysis and Algorithms, Fall 2026.
 
 ## Misc
 My Erd&#337;s number is 3 via the chain YH &rarr; Michael Mitzenmacher &rarr; Joel H. Spencer &rarr; Paul Erdős.
