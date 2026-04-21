@@ -2,7 +2,7 @@
 title: "The Mixed Birth-death/death-Birth Moran Process"
 collection: publications
 permalink: /publication/the-mixed-birth-death-death-birth-moran-process
-date: 2026-01-01
+date: 2026-01-20
 category: theoretical-computer-science
 authors: 'David A. Brewster, <strong>Yichen Huang</strong>, Michael Mitzenmacher, Martin A. Nowak'
 venue: 'ITCS'

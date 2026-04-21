@@ -2,7 +2,7 @@
 title: "Online Monotone Metric Embeddings"
 collection: publications
 permalink: /publication/online-monotone-metric-embeddings
-date: 2026-01-01
+date: 2026-07-20
 category: theoretical-computer-science
 authors: 'Christian Coester, <strong>Yichen Huang</strong>'
 venue: 'ICALP'

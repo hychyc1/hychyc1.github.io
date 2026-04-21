@@ -1,0 +1,26 @@
+{
+  "ITCS": {
+    "month": 1,
+    "day": 20
+  },
+  "SODA": {
+    "month": 1,
+    "day": 10
+  },
+  "STOC": {
+    "month": 6,
+    "day": 15
+  },
+  "EC": {
+    "month": 7,
+    "day": 10
+  },
+  "ICALP": {
+    "month": 7,
+    "day": 20
+  },
+  "FOCS": {
+    "month": 11,
+    "day": 10
+  }
+}
