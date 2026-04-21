@@ -23,11 +23,9 @@ I enjoy talking to people with different backgrounds and perspectives. If you ar
 ## Working Papers
 Competitive Online Clustering with Movement Cost\\
 Christian Coester, **Yichen Huang**, Michael Mitzenmacher\\
-In submission
 
 [Form vs Information: The Regimes of Data Property Rights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626)\\
 **Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng\\
-In submission
 
 ## Selected Publications
 Online Monotone Metric Embeddings ([10 min](https://youtu.be/gGlVxqaLb4s?si=8GjLgZb-T549qm4E))\\
@@ -49,13 +47,12 @@ Dagstuhl Workshop 26131: New Trends in Clustering, 2026
 **The Mixed Birth-death/death-Birth Moran Process**\\
 ITCS 2026
 
-## Service and Organizations
+## Service, Organizations, and Teaching
 I currently co-organize [TGINF](https://sites.google.com/view/harvardtginf/), a theory seminar for graduate students and postdocs at Harvard.
 
 PC: EC 2026. \\
 Reviewer: ITCS 2026, ICALP 2026.
 
-## Teaching
 TA for Harvard CS 2380 Optimized Democracy, Fall 2025.
 
 ## Misc
