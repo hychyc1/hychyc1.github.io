@@ -30,7 +30,7 @@ Christian Coester, **Yichen Huang**, Michael Mitzenmacher
 **Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng
 
 ## Selected Publications
-Online Monotone Metric Embeddings ([10 min](https://youtu.be/gGlVxqaLb4s?si=8GjLgZb-T549qm4E))\\
+[Online Monotone Metric Embeddings](https://arxiv.org/abs/2604.27059) ([10 min](https://youtu.be/gGlVxqaLb4s?si=8GjLgZb-T549qm4E))\\
 Christian Coester, **Yichen Huang**\\
 ICALP 2026
 
