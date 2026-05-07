@@ -15,7 +15,7 @@ author_profile: true
 <h2>Manuscripts</h2>
 {% assign has_manuscripts = false %}
 {% for post in sorted_publications %}
-  {% if post.working == 'y' %}
+  {% if post.working == 'y' and post.visible != 'n' %}
     {% assign has_manuscripts = true %}
     <div class="list__item">
       <article class="archive__item publication-entry">
@@ -46,7 +46,7 @@ author_profile: true
 <h2>Publications</h2>
 {% assign has_publications = false %}
 {% for post in sorted_publications %}
-  {% if post.working != 'y' %}
+  {% if post.working != 'y' and post.visible != 'n' %}
     {% assign has_publications = true %}
     <div class="list__item">
       <article class="archive__item publication-entry">

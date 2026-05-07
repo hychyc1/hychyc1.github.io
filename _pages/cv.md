@@ -44,7 +44,9 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
+    {% if post.visible != 'n' %}
     {% include archive-single-cv.html %}
+    {% endif %}
   {% endfor %}</ul>
   
 Talks

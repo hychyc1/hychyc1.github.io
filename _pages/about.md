@@ -59,7 +59,7 @@ Subreviewer: ITCS 2026, ICALP 2026.
 
 I have been (or will be) the TA for the following classes:
 - Harvard CS 2380 Optimized Democracy, Fall 2025.
-- Harvard CS 2230 Probabilistic Analysis and Algorithms, Fall 2026.
+- Harvard CS 2242 Probabilistic Analysis and Algorithms, Fall 2026.
 
 ## Misc
 My Erd&#337;s number is 3 via the chain YH &rarr; Michael Mitzenmacher &rarr; Joel H. Spencer &rarr; Paul Erdős.
