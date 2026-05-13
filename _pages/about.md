@@ -55,7 +55,7 @@ ITCS 2026
 I currently co-organize [TGINF](https://sites.google.com/view/harvardtginf/), a theory seminar for graduate students and postdocs at Harvard.
 
 PC: EC 2026. \\
-Subreviewer: ITCS 2026, ICALP 2026.
+Subreviewer: ITCS 2026, ICALP 2026, APPROX/RANDOM 2026.
 
 I have been (or will be) the TA for the following classes:
 - Harvard CS 2380 Optimized Democracy, Fall 2025.
