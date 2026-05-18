@@ -22,14 +22,14 @@ I enjoy talking to people with different backgrounds and perspectives. If you ar
 
 <!-- (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?) -->
 
-## Working Papers
+# Working Papers
 Competitive Online Clustering with Movement Cost\\
 Christian Coester, **Yichen Huang**, Michael Mitzenmacher
 
 [Form vs Information: The Regimes of Data Property Rights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626)\\
 **Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng
 
-## Selected Publications
+# Selected Publications
 [Online Monotone Metric Embeddings](https://arxiv.org/abs/2604.27059) ([10 min](https://youtu.be/gGlVxqaLb4s?si=8GjLgZb-T549qm4E))\\
 Christian Coester, **Yichen Huang**\\
 ICALP 2026
@@ -38,7 +38,7 @@ ICALP 2026
 David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
 ITCS 2026
 
-## Talks
+# Talks
 **Online Monotone Metric Embeddings**\\
 TGINF (Harvard Student Theory Seminar) 2025\\
 Workshop on Local Algorithms 2025\\
@@ -51,17 +51,17 @@ Highlights of Algorithms 2026
 **The Mixed Birth-death/death-Birth Moran Process**\\
 ITCS 2026
 
-## Service, Organizations, and Teaching
+# Service, Organizations, and Teaching
 I currently co-organize [TGINF](https://sites.google.com/view/harvardtginf/), a theory seminar for graduate students and postdocs at Harvard.
 
 PC: EC 2026. \\
-Subreviewer: ITCS 2026, ICALP 2026, APPROX/RANDOM 2026.
+Subreviewer: ITCS 2026, ICALP 2026, APPROX 2026.
 
 I have been (or will be) the TA for the following classes:
 - Harvard CS 2380 Optimized Democracy, Fall 2025.
 - Harvard CS 2242 Probabilistic Analysis and Algorithms, Fall 2026.
 
-## Misc
+# Misc
 My Erd&#337;s number is 3 via the chain YH &rarr; Michael Mitzenmacher &rarr; Joel H. Spencer &rarr; Paul Erdős.
 
 Outside academia, I enjoy playing poker and have recently gotten quite into bouldering. I also spend some time in (Mandarin Chinese) competitive debating. I currently lead the Harvard Chinese Debate Team, and I previously captained Oxford's Chinese Debate Team, with whom I was the runner-up at the Chinese Debate World Cup.
