@@ -36,8 +36,7 @@ ICALP 2026
 
 [The Mixed Birth-death/death-Birth Moran Process](https://arxiv.org/abs/2511.18252) ([20 min](https://youtu.be/RxWbd2SH-zg?si=f3wSqIhKApJE81hB))\\
 David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
-ITCS 2026
-Major Revision at PLOS Computational Biology
+ITCS 2026, Major Revision at PLOS Computational Biology
 
 ## Talks
 **Online Monotone Metric Embeddings**\\
