@@ -23,6 +23,9 @@ I enjoy talking to people with different backgrounds and perspectives. If you ar
 <!-- (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?) -->
 
 ## Working Papers
+Improved and Deterministic Algorithms for Random-Order Online Facility Location\\
+**Yichen Huang**, Shaofeng H.-C. Jiang 
+
 Competitive Online Clustering with Movement Cost\\
 Christian Coester, **Yichen Huang**, Michael Mitzenmacher
 
