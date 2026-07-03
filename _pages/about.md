@@ -23,11 +23,21 @@ I enjoy talking to people with different backgrounds and perspectives. If you ar
 <!-- (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?) -->
 
 ## Working Papers
+<!-- 
+Online Fair Division with Monotone Recourse
+**Yichen Huang**, Nicholas Teh
+
+Online Metric Matching with Monotone Recourse
+Christian Coester, **Yichen Huang**
+
+Collective Tree Exploration with Predictions
+Romain Cosson, **Yichen Huang**, Michael Mitzenmacher, Ali Vakilian
+
 Improved and Deterministic Algorithms for Random-Order Online Facility Location\\
 **Yichen Huang**, Shaofeng H.-C. Jiang 
 
 Competitive Online Clustering with Movement Cost\\
-Christian Coester, **Yichen Huang**, Michael Mitzenmacher
+Christian Coester, **Yichen Huang**, Michael Mitzenmacher -->
 
 [Form vs Information: The Regimes of Data Property Rights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626)\\
 **Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng
