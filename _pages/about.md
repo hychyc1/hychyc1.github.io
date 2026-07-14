@@ -31,13 +31,17 @@ Online Metric Matching with Monotone Recourse
 Christian Coester, **Yichen Huang**
 
 Collective Tree Exploration with Predictions
-Romain Cosson, **Yichen Huang**, Michael Mitzenmacher, Ali Vakilian
+Romain Cosson, **Yichen Huang**, Michael Mitzenmacher, Ali Vakilian 
 
-Improved and Deterministic Algorithms for Random-Order Online Facility Location\\
-**Yichen Huang**, Shaofeng H.-C. Jiang 
+HAI Present Bias
+Yiling Chen, Shi Feng, Yichen Huang, Yuqi Pan, Milind Tambe, Sadie Zhao
+-->
 
 Competitive Online Clustering with Movement Cost\\
-Christian Coester, **Yichen Huang**, Michael Mitzenmacher -->
+Christian Coester, **Yichen Huang**, Michael Mitzenmacher 
+
+[The Power of Arrival Time in Random-Order Online Facility Location](https://arxiv.org/abs/2607.10564)\\
+ **Yichen Huang**, Shaofeng H.-C. Jiang
 
 [Form vs Information: The Regimes of Data Property Rights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626)\\
 **Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng
