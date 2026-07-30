@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at Harvard University under the wise guidance of [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/). I am broadly interested in theoretical computer science, especially in decision making under uncertainty. More concretely, I study uncertainty arising from not knowing the future (**online algorithms**), from making use of unreliable predictions (**learning-augmented algorithms**), and from strategic agents with private information (**mechanism design**). I also like turning observations and insights from real-world phenomena into clean mathematical questions and solutions.
 
-I completed my undergraduate studies at the University of Oxford, where I had the pleasure of working with [Prof. Christian Coester](https://www.cs.ox.ac.uk/people/christian.coester/) and [Prof. Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/). I visited Peking University during Spring 2026, hosted by [Prof. Shaofeng Jiang](https://www.shaofengjiang.cn/). 
+I completed my undergraduate studies at the University of Oxford during 2020 to 2024, where I had the pleasure of working with [Prof. Christian Coester](https://www.cs.ox.ac.uk/people/christian.coester/) and [Prof. Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/). I visited Peking University during Spring 2026, hosted by [Prof. Shaofeng Jiang](https://www.shaofengjiang.cn/). 
 
 <!-- 1. Online Algorithms: Online algorithms receive input over time and must make irrevocable decisions without knowing the future. How can we design algorithms that remain competitive with the offline optimum, which gets to see the entire input in hindsight?
 1. [Learning-augmented Algorithms](https://algorithms-with-predictions.github.io/): Inspired by the successes of machine learning, how can algorithms make principled use of predictions that may be highly informative but come with no guarantee of correctness? Can we capture the upside of accurate predictions while staying robust to bad ones?
@@ -24,7 +24,7 @@ I enjoy talking to people with different backgrounds and perspectives. If you ar
 
 ## Working Papers
 <!-- 
-Online Fair Division with Monotone Recourse
+Online Fair Division with Upgrade Recourse
 **Yichen Huang**, Nicholas Teh
 
 Online Metric Matching with Monotone Recourse
@@ -34,13 +34,16 @@ Collective Tree Exploration with Predictions
 Romain Cosson, **Yichen Huang**, Michael Mitzenmacher, Ali Vakilian 
 
 HAI Present Bias
-Yiling Chen, Shi Feng, Yichen Huang, Yuqi Pan, Milind Tambe, Sadie Zhao
+Yiling Chen, Shi Feng, **Yichen Huang**, Yuqi Pan, Milind Tambe, Sadie Zhao
+
+Strategy Linear Regression with Squared Loss
+**Yichen Huang**, Yuqi Pan
 -->
 
 Competitive Online Clustering with Movement Cost\\
 Christian Coester, **Yichen Huang**, Michael Mitzenmacher 
 
-[The Power of Arrival Time in Random-Order Online Facility Location](https://arxiv.org/abs/2607.10564)\\
+[The Power of Arrival Times in Random-Order Online Facility Location](https://arxiv.org/abs/2607.10564)\\
  **Yichen Huang**, Shaofeng H.-C. Jiang
 
 [Form vs Information: The Regimes of Data Property Rights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626)\\
