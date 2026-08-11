@@ -15,5 +15,5 @@ main:
   # - title: "Recipes"
   #   url: /recipes/
 
-  - title: "CV"
-    url: /files/cv.pdf
+  # - title: "CV"
+    # url: /files/cv.pdf

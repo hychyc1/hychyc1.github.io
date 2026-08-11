@@ -24,6 +24,9 @@ I enjoy talking to people with different backgrounds and perspectives. If you ar
 
 ## Working Papers
 <!-- 
+Improved FPT algorithm for Capacitated k-Median
+**Yichen Huang**, Euiwoong Lee
+
 Online Fair Division with Upgrade Recourse
 **Yichen Huang**, Nicholas Teh
 
@@ -58,7 +61,7 @@ ICALP 2026
 David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
 ITCS 2026, Major Revision at PLOS Computational Biology
 
-## Talks
+<!-- ## Talks
 **Online Monotone Metric Embeddings**\\
 TGINF (Harvard Student Theory Seminar) 2025\\
 Workshop on Local Algorithms 2025\\
@@ -69,13 +72,13 @@ Dagstuhl Workshop 26131: New Trends in Clustering, 2026\\
 Highlights of Algorithms 2026
 
 **The Mixed Birth-death/death-Birth Moran Process**\\
-ITCS 2026
+ITCS 2026 -->
 
 ## Service, Organizations, and Teaching
 I currently co-organize [TGINF](https://sites.google.com/view/harvardtginf/), a theory seminar for graduate students and postdocs at Harvard.
 
 PC: EC 2026. \\
-Subreviewer: ITCS 2026, ICALP 2026, APPROX/RANDOM 2026.
+Subreviewer: SODA 2026, APPROX 2026, ICALP 2026, ITCS 2026.
 
 I have been (or will be) the TA for the following classes:
 - Harvard CS 2380 Optimized Democracy, Fall 2025.
@@ -84,6 +87,7 @@ I have been (or will be) the TA for the following classes:
 ## Misc
 My Erd&#337;s number is 3 via the chain YH &rarr; Michael Mitzenmacher &rarr; Joel H. Spencer &rarr; Paul Erdős.
 
-Outside academia, I enjoy playing poker and have recently gotten quite into bouldering. I also spend some time in (Mandarin Chinese) competitive debating. I currently lead the Harvard Chinese Debate Team, and I previously captained Oxford's Chinese Debate Team, with whom I was the runner-up at the Chinese Debate World Cup.
+Outside academia, I enjoy playing poker and have recently gotten quite into bouldering. I also spend some time in (Mandarin Chinese) competitive debating and I currently lead the Harvard Chinese Debate Team
+<!-- , and I previously captained Oxford's Chinese Debate Team, with whom I was the runner-up at the Chinese Debate World Cup. -->
 
 (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?)
