@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at Harvard University under the wise guidance of [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/). I am broadly interested in theoretical computer science, especially in decision making under uncertainty. More concretely, I study uncertainty arising from not knowing the future (**online algorithms**), from making use of unreliable predictions (**learning-augmented algorithms**), and from strategic agents with private information (**mechanism design**). I also like turning observations and insights from real-world phenomena into clean mathematical questions and solutions.
 
-I completed my undergraduate studies during 2020 to 2024 at the University of Oxford, where I had the pleasure of working with [Prof. Christian Coester](https://www.cs.ox.ac.uk/people/christian.coester/) and [Prof. Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/). I visited Peking University during Spring 2026, hosted by [Prof. Shaofeng Jiang](https://www.shaofengjiang.cn/). 
+I completed my undergraduate studies during 2020 to 2024 at the University of Oxford, where I had the pleasure of working with [Prof. Christian Coester](https://www.cs.ox.ac.uk/people/christian.coester/) and [Prof. Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/). In Spring 2026, I visited [Prof. Shaofeng Jiang](https://www.shaofengjiang.cn/) at Peking University and [Prof. Shuran Zheng](https://sites.google.com/view/shuran-zheng) at Tsinghua University. 
 
 <!-- 1. Online Algorithms: Online algorithms receive input over time and must make irrevocable decisions without knowing the future. How can we design algorithms that remain competitive with the offline optimum, which gets to see the entire input in hindsight?
 1. [Learning-augmented Algorithms](https://algorithms-with-predictions.github.io/): Inspired by the successes of machine learning, how can algorithms make principled use of predictions that may be highly informative but come with no guarantee of correctness? Can we capture the upside of accurate predictions while staying robust to bad ones?
@@ -24,8 +24,11 @@ I enjoy talking to people with different backgrounds and perspectives. If you ar
 
 ## Working Papers
 <!-- 
+Chasing Small Sets in Random Order
+Sujoy Bhore, Christian Coester, **Yichen Huang**
+
 Improved FPT algorithm for Capacitated k-Median
-**Yichen Huang**, Euiwoong Lee
+Aditya Anand, **Yichen Huang**, Euiwoong Lee
 
 Online Fair Division with Upgrade Recourse
 **Yichen Huang**, Nicholas Teh
@@ -33,15 +36,14 @@ Online Fair Division with Upgrade Recourse
 Online Metric Matching with Monotone Recourse
 Christian Coester, **Yichen Huang**
 
-Collective Tree Exploration with Predictions
-Romain Cosson, **Yichen Huang**, Michael Mitzenmacher, Ali Vakilian 
-
 HAI Present Bias
 Yiling Chen, Shi Feng, **Yichen Huang**, Yuqi Pan, Milind Tambe, Sadie Zhao
 
 Strategy Linear Regression with Squared Loss
 **Yichen Huang**, Yuqi Pan
 -->
+Collective Tree Exploration with Predictions\\
+Romain Cosson, **Yichen Huang**, Michael Mitzenmacher, Ali Vakilian 
 
 Competitive Online Clustering with Movement Cost\\
 Christian Coester, **Yichen Huang**, Michael Mitzenmacher 
@@ -80,7 +82,7 @@ I currently co-organize [TGINF](https://sites.google.com/view/harvardtginf/), a 
 PC: EC 2026. \\
 Subreviewer: SODA 2026, APPROX 2026, ICALP 2026, ITCS 2026.
 
-I have been (or will be) the TA for the following classes:
+I have been the TA for the following courses:
 - Harvard CS 2380 Optimized Democracy, Fall 2025.
 - Harvard CS 2242 Probabilistic Analysis and Algorithms, Fall 2026.
 
