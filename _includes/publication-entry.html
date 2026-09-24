@@ -16,7 +16,7 @@
 {%- endcapture %}
 
 <li class="publication-entry">
-  <strong>{{ post.title | escape }}</strong>{% if publication_links != empty %} ({{ publication_links }}){% endif %}<br>
+  <strong>{{ post.title | escape }}</strong>{% if publication_links != empty %} [{{ publication_links }}]{% endif %}<br>
   {{ post.authors }}
   {% if include.show_venue and post.venue %}
     <br>

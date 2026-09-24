@@ -54,17 +54,17 @@ Online Fair Division with Upgrade Recourse
 - **Competitive Online Clustering with Movement Cost**\\
   Christian Coester, **Yichen Huang**, Michael Mitzenmacher
 
-- **The Power of Arrival Times in Random-Order Online Facility Location** ([arXiv](https://arxiv.org/abs/2607.10564))\\
+- **The Power of Arrival Times in Random-Order Online Facility Location** \[[arXiv](https://arxiv.org/abs/2607.10564)\]\\
   **Yichen Huang**, Shaofeng H.-C. Jiang
 {: .publication-list}
 
 
 ## Selected Publications
-- **Online Monotone Metric Embeddings** ([arXiv](https://arxiv.org/abs/2604.27059))\\
+- **Online Monotone Metric Embeddings** \[[arXiv](https://arxiv.org/abs/2604.27059)\]\\
   Christian Coester, **Yichen Huang**\\
   ICALP 2026
 
-- **The Mixed Birth-death/death-Birth Moran Process** ([arXiv](https://arxiv.org/abs/2511.18252), [talk 20 min](https://youtu.be/RxWbd2SH-zg?si=f3wSqIhKApJE81hB))\\
+- **The Mixed Birth-death/death-Birth Moran Process** \[[arXiv](https://arxiv.org/abs/2511.18252), [talk 20 min](https://youtu.be/RxWbd2SH-zg?si=f3wSqIhKApJE81hB)\]\\
   David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
   ITCS 2026\\
   Journal version at PLOS Computational Biology
