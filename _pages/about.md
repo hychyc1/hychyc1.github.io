@@ -60,11 +60,11 @@ Online Fair Division with Upgrade Recourse
 
 
 ## Selected Publications
-- **Online Monotone Metric Embeddings** \[[arXiv](https://arxiv.org/abs/2604.27059)\]\\
+- **Online Monotone Metric Embeddings** \[[arXiv](https://arxiv.org/abs/2604.27059), [1 hour talk (in Chinese)](https://www.youtube.com/watch?v=L5hqESHbPvs)\]\\
   Christian Coester, **Yichen Huang**\\
   ICALP 2026
 
-- **The Mixed Birth-death/death-Birth Moran Process** \[[arXiv](https://arxiv.org/abs/2511.18252), [talk 20 min](https://youtu.be/RxWbd2SH-zg?si=f3wSqIhKApJE81hB)\]\\
+- **The Mixed Birth-death/death-Birth Moran Process** \[[arXiv](https://arxiv.org/abs/2511.18252), [20 mins talk](https://youtu.be/RxWbd2SH-zg?si=f3wSqIhKApJE81hB)\]\\
   David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
   ITCS 2026\\
   Journal version at PLOS Computational Biology
