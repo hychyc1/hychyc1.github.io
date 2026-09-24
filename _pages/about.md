@@ -20,7 +20,6 @@ I completed my undergraduate studies during 2020 to 2024 at the University of Ox
 
 I enjoy talking to people with different backgrounds and perspectives. If you are interested in collaborating, or simply want to chat about anything, feel free to reach out at [\{firstname\}\{lastname\}]@g.harvard.edu.
 
-<!-- (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?) -->
 
 ## Working Papers
 <!-- 
@@ -30,8 +29,8 @@ Sujoy Bhore, Christian Coester, **Yichen Huang**
 Improved FPT algorithm for Capacitated k-Median
 Aditya Anand, **Yichen Huang**, Euiwoong Lee
 
-Online Fair Division with Upgrade Recourse
-**Yichen Huang**, Nicholas Teh
+[Form vs Information: The Regimes of Data Property Rights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626)\\
+**Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng
 
 Online Metric Matching with Monotone Recourse
 Christian Coester, **Yichen Huang**
@@ -39,29 +38,37 @@ Christian Coester, **Yichen Huang**
 HAI Present Bias
 Yiling Chen, Shi Feng, **Yichen Huang**, Yuqi Pan, Milind Tambe, Sadie Zhao
 
-Strategy Linear Regression with Squared Loss
-**Yichen Huang**, Yuqi Pan
+Efficient Strategyproof Linear Regression
+**Yichen Huang**^*, Yuqi Pan^*, Yiling Chen, Michael Mitzenmacher, Milind Tambe
+
+Online $k$-Taxi on General Metrics
+Christian Coester, **Yichen Huang**
+
+Online Fair Division with Upgrade Recourse
+**Yichen Huang**, Nicholas Teh
+
+- **Collective Tree Exploration with Predictions**\\
+  Romain Cosson, **Yichen Huang**, Michael Mitzenmacher, Ali Vakilian
 -->
-Collective Tree Exploration with Predictions\\
-Romain Cosson, **Yichen Huang**, Michael Mitzenmacher, Ali Vakilian 
 
-Competitive Online Clustering with Movement Cost\\
-Christian Coester, **Yichen Huang**, Michael Mitzenmacher 
+- **Competitive Online Clustering with Movement Cost**\\
+  Christian Coester, **Yichen Huang**, Michael Mitzenmacher
 
-[The Power of Arrival Times in Random-Order Online Facility Location](https://arxiv.org/abs/2607.10564)\\
- **Yichen Huang**, Shaofeng H.-C. Jiang
+- **The Power of Arrival Times in Random-Order Online Facility Location** ([arXiv](https://arxiv.org/abs/2607.10564))\\
+  **Yichen Huang**, Shaofeng H.-C. Jiang
+{: .publication-list}
 
-[Form vs Information: The Regimes of Data Property Rights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626)\\
-**Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng
 
 ## Selected Publications
-[Online Monotone Metric Embeddings](https://arxiv.org/abs/2604.27059) ([10 min](https://youtu.be/gGlVxqaLb4s?si=8GjLgZb-T549qm4E))\\
-Christian Coester, **Yichen Huang**\\
-ICALP 2026
+- **Online Monotone Metric Embeddings** ([arXiv](https://arxiv.org/abs/2604.27059))\\
+  Christian Coester, **Yichen Huang**\\
+  ICALP 2026
 
-[The Mixed Birth-death/death-Birth Moran Process](https://arxiv.org/abs/2511.18252) ([20 min](https://youtu.be/RxWbd2SH-zg?si=f3wSqIhKApJE81hB))\\
-David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
-ITCS 2026, Major Revision at PLOS Computational Biology
+- **The Mixed Birth-death/death-Birth Moran Process** ([arXiv](https://arxiv.org/abs/2511.18252), [talk 20 min](https://youtu.be/RxWbd2SH-zg?si=f3wSqIhKApJE81hB))\\
+  David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
+  ITCS 2026\\
+  Journal version at PLOS Computational Biology
+{: .publication-list}
 
 <!-- ## Talks
 **Online Monotone Metric Embeddings**\\
@@ -89,7 +96,7 @@ I have been the TA for the following courses:
 ## Misc
 My Erd&#337;s number is 3 via the chain YH &rarr; Michael Mitzenmacher &rarr; Joel H. Spencer &rarr; Paul Erdős.
 
-Outside academia, I enjoy playing poker and have recently gotten quite into bouldering. I also spend some time in (Mandarin Chinese) competitive debating and I currently lead the Harvard Chinese Debate Team
+Outside academia, I enjoy playing poker and am learning to boulder. I also spend some time in (Mandarin Chinese) competitive debating and I currently lead the Harvard Chinese Debate Team.
 <!-- , and I previously captained Oxford's Chinese Debate Team, with whom I was the runner-up at the Chinese Debate World Cup. -->
 
 (Are you looking for physicist [Yichen Huang](https://sites.google.com/site/yichenhuanghomepage/)?)

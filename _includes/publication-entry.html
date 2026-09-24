@@ -1,24 +1,25 @@
-<div class="list__item">
-  <article class="archive__item publication-entry">
-    <p class="publication-entry__title">
-      {% if post.paperurl %}
-        <a href="{{ post.paperurl }}">{{ post.title }}</a>
-      {% else %}
-        {{ post.title }}
-      {% endif %}
-      {% if post.talks %}
-        (
-        {% for talk in post.talks %}
-          <a href="{{ talk.url }}">{{ talk.label }}</a>{% unless forloop.last %}, {% endunless %}
-        {% endfor %}
-        )
-      {% endif %}
-      <br>
-      {{ post.authors }}
-      {% if include.show_venue != false and post.venue %}
-        <br>
-        <i>{{ post.venue }}</i>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
-      {% endif %}
-    </p>
-  </article>
-</div>
+{% assign paper_label = 'paper' %}
+{% if post.paperurl contains 'arxiv.org/' %}
+  {% assign paper_label = 'arXiv' %}
+{% elsif post.paperurl contains 'ssrn.com/' %}
+  {% assign paper_label = 'SSRN' %}
+{% endif %}
+
+{% capture publication_links -%}
+  {%- if post.paperurl -%}
+    <a href="{{ post.paperurl | escape }}">{{ paper_label }}</a>
+  {%- endif -%}
+  {%- for talk in post.talks -%}
+    {%- if post.paperurl or forloop.first == false %}, {% endif -%}
+    <a href="{{ talk.url | escape }}">talk{% if talk.label %} {{ talk.label | escape }}{% endif %}</a>
+  {%- endfor -%}
+{%- endcapture %}
+
+<li class="publication-entry">
+  <strong>{{ post.title | escape }}</strong>{% if publication_links != empty %} ({{ publication_links }}){% endif %}<br>
+  {{ post.authors }}
+  {% if include.show_venue and post.venue %}
+    <br>
+    <i>{{ post.venue }}</i>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+  {% endif %}
+</li>

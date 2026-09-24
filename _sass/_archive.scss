@@ -66,20 +66,20 @@
   }
 }
 
-.publication-entry {
-  margin-bottom: 1.5em;
-}
-
-.page__content .publication-entry__title,
-.page__content .publication-entry__title a,
-.page__content .publication-entry__title strong,
-.page__content .publication-entry__title em {
-  font-size: $type-size-5 !important;
-}
-
-.publication-entry__title {
-  margin: 0;
+.publication-list {
+  padding-left: 1.25em;
+  list-style-type: disc;
+  font-size: 1em;
   line-height: 1.5;
+
+  > li {
+    margin-bottom: 1.5em;
+    font-size: 1em;
+  }
+
+  > li > p {
+    margin: 0;
+  }
 }
 
 .archive__item-teaser {
