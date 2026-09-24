@@ -66,8 +66,7 @@ Online Fair Division with Upgrade Recourse
 
 - **The Mixed Birth-death/death-Birth Moran Process** \[[arXiv](https://arxiv.org/abs/2511.18252), [20 mins talk](https://youtu.be/RxWbd2SH-zg?si=f3wSqIhKApJE81hB)\]\\
   David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
-  ITCS 2026\\
-  Journal version at PLOS Computational Biology
+  ITCS 2026, PLOS Computational Biology
 {: .publication-list}
 
 <!-- ## Talks
