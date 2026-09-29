@@ -29,42 +29,55 @@ Sujoy Bhore, Christian Coester, **Yichen Huang**
 Improved FPT algorithm for Capacitated k-Median
 Aditya Anand, **Yichen Huang**, Euiwoong Lee
 
-[Form vs Information: The Regimes of Data Property Rights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626)\\
+- **Form vs Information: The Regimes of Data Property Rights**\[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626)\]\\
 **Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng
 
-Online Metric Matching with Monotone Recourse
+- **Online Metric Matching with Monotone Recourse**\\
 Christian Coester, **Yichen Huang**
 
-HAI Present Bias
+- **HAI Present Bias**\\
 Yiling Chen, Shi Feng, **Yichen Huang**, Yuqi Pan, Milind Tambe, Sadie Zhao
 
-Efficient Strategyproof Linear Regression
-**Yichen Huang**^*, Yuqi Pan^*, Yiling Chen, Michael Mitzenmacher, Milind Tambe
+- **Metrical Service System with Multiple Servers and Generalized $k$-Server on General Metrics**\\
+**Yichen Huang**
 
-Online $k$-Taxi on General Metrics
+- **Polynomial Competitive Ratio for the Harmonic Algorithm for $k$-Server**\\
 Christian Coester, **Yichen Huang**
 
-Online Fair Division with Upgrade Recourse
+- **Online $k$-Taxi on General Metrics**\\
+Christian Coester, **Yichen Huang**, Tzeyang Poon
+
+- **Online Fair Division of Chores with Upgrade Recourse**\\
 **Yichen Huang**, Nicholas Teh
+
+- **Revisiting Simple Auctions: Approximating versus Surpassing**\\
+    Yichen Huang
+-->
 
 - **Collective Tree Exploration with Predictions**\\
   Romain Cosson, **Yichen Huang**, Michael Mitzenmacher, Ali Vakilian
--->
 
-- **Competitive Online Clustering with Movement Cost**\\
-  Christian Coester, **Yichen Huang**, Michael Mitzenmacher
+- **Online Fair Division with Upgrade Recourse**\\
+**Yichen Huang**, Nicholas Teh
 
-- **The Power of Arrival Times in Random-Order Online Facility Location** \[[arXiv](https://arxiv.org/abs/2607.10564)\]\\
-  **Yichen Huang**, Shaofeng H.-C. Jiang
-{: .publication-list}
-
+- **[Tight Efficiency Gaurantees for Strategyproof Linear Regression](https://arxiv.org/abs/2609.33976)**\\
+**Yichen Huang**^\*, Yuqi Pan^\*, Yiling Chen, Michael Mitzenmacher, Milind Tambe
 
 ## Selected Publications
-- **Online Monotone Metric Embeddings** \[[arXiv](https://arxiv.org/abs/2604.27059), [1 hour talk (in Chinese)](https://www.youtube.com/watch?v=L5hqESHbPvs)\]\\
+- **Competitive Online Clustering with Movement Cost**\\
+  Christian Coester, **Yichen Huang**, Michael Mitzenmacher\\
+SODA 2027
+
+- **[The Power of Arrival Times in Random-Order Online Facility Location](https://arxiv.org/abs/2607.10564){: .publication-title-link}**\\
+  **Yichen Huang**, Shaofeng H.-C. Jiang\\
+  SODA 2027
+{: .publication-list}
+
+- **[Online Monotone Metric Embeddings](https://arxiv.org/abs/2604.27059){: .publication-title-link}** \[[1 hour talk (in Chinese)](https://www.youtube.com/watch?v=L5hqESHbPvs)\]\\
   Christian Coester, **Yichen Huang**\\
   ICALP 2026
 
-- **The Mixed Birth-death/death-Birth Moran Process** \[[arXiv](https://arxiv.org/abs/2511.18252), [20 mins talk](https://youtu.be/RxWbd2SH-zg?si=f3wSqIhKApJE81hB)\]\\
+- **[The Mixed Birth-death/death-Birth Moran Process](https://arxiv.org/abs/2511.18252){: .publication-title-link}** \[[20 mins talk](https://youtu.be/RxWbd2SH-zg?si=f3wSqIhKApJE81hB)\]\\
   David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
   ITCS 2026, PLOS Computational Biology
 {: .publication-list}

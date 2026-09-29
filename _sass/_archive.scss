@@ -82,6 +82,18 @@
   }
 }
 
+a.publication-title-link {
+  &,
+  &:visited {
+    color: #24558a;
+  }
+
+  &:hover,
+  &:focus {
+    color: #163858;
+  }
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;

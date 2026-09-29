@@ -1,22 +1,12 @@
-{% assign paper_label = 'paper' %}
-{% if post.paperurl contains 'arxiv.org/' %}
-  {% assign paper_label = 'arXiv' %}
-{% elsif post.paperurl contains 'ssrn.com/' %}
-  {% assign paper_label = 'SSRN' %}
-{% endif %}
-
 {% capture publication_links -%}
-  {%- if post.paperurl -%}
-    <a href="{{ post.paperurl | escape }}">{{ paper_label }}</a>
-  {%- endif -%}
   {%- for talk in post.talks -%}
-    {%- if post.paperurl or forloop.first == false %}, {% endif -%}
+    {%- unless forloop.first %}, {% endunless -%}
     <a href="{{ talk.url | escape }}">talk{% if talk.label %} {{ talk.label | escape }}{% endif %}</a>
   {%- endfor -%}
 {%- endcapture %}
 
 <li class="publication-entry">
-  <strong>{{ post.title | escape }}</strong>{% if publication_links != empty %} [{{ publication_links }}]{% endif %}<br>
+  <strong>{% if post.paperurl %}<a class="publication-title-link" href="{{ post.paperurl | escape }}">{{ post.title | escape }}</a>{% else %}{{ post.title | escape }}{% endif %}</strong>{% if publication_links != empty %} [{{ publication_links }}]{% endif %}<br>
   {{ post.authors }}
   {% if include.show_venue and post.venue %}
     <br>
