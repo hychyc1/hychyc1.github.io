@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at Harvard University under the wise guidance of [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/). I am broadly interested in theoretical computer science, especially in decision making under uncertainty. More concretely, I study uncertainty arising from not knowing the future (**online algorithms**), from making use of unreliable predictions (**learning-augmented algorithms**), and from strategic agents with private information (**mechanism design**). I also like turning observations and insights from real-world phenomena into clean mathematical questions and solutions, and in turn using theoretical tools to inspire engineering designs with real-world improvements.
+I am a Ph.D. student in Computer Science at Harvard University under the wise guidance of [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/). I am broadly interested in theoretical computer science, especially in decision making under uncertainty. More concretely, I study uncertainty arising from not knowing the future (**online algorithms**), from making use of unreliable predictions (**learning-augmented algorithms**), and from strategic agents with private information (**mechanism design**). I also enjoy turning observations and insights from real-world phenomena into clean mathematical questions, as well as using theory to guide engineering designs toward practical improvements.
 
 I completed my undergraduate studies during 2020 to 2024 at the University of Oxford, where I had the pleasure of working with [Prof. Christian Coester](https://www.cs.ox.ac.uk/people/christian.coester/) and [Prof. Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/). In Spring 2026, I visited [Prof. Shaofeng Jiang](https://www.shaofengjiang.cn/) at Peking University and [Prof. Shuran Zheng](https://shuranzh.github.io/shuran/) at Tsinghua University. 
 
@@ -53,7 +53,7 @@ Christian Coester, **Yichen Huang**, Tzeyang Poon
 -->
 
 ## Working Papers
-<sub>Authors are usually listed in alphabetical ordering unless they are not, in which case (\*) marks equal contribution.<sub>
+<p class="publication-note">Authors are listed alphabetically unless indicated otherwise; (*) denotes equal contribution.</p>
 
 - **Form vs Information: The Regimes of Data Property Rights**\\
 **Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng
@@ -66,6 +66,7 @@ Christian Coester, **Yichen Huang**, Tzeyang Poon
 
 - **[Tight Efficiency Gaurantees for Strategyproof Linear Regression](https://arxiv.org/abs/2609.33976){: .publication-title-link}**\\
 **Yichen Huang**\*, Yuqi Pan\*, Yiling Chen, Michael Mitzenmacher, Milind Tambe
+{: .publication-list}
 
 ## Selected Publications
 - **Competitive Online Clustering with Movement Cost**\\
