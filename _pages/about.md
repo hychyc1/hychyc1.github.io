@@ -29,7 +29,7 @@ Sujoy Bhore, Christian Coester, **Yichen Huang**
 Improved FPT algorithm for Capacitated k-Median
 Aditya Anand, **Yichen Huang**, Euiwoong Lee
 
-- **Form vs Information: The Regimes of Data Property Rights**\[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626)\]\\
+- **[Form vs Information: The Regimes of Data Property Rights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626){: .publication-title-link}**\\
 **Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng
 
 - **Online Metric Matching with Monotone Recourse**\\
@@ -54,13 +54,16 @@ Christian Coester, **Yichen Huang**, Tzeyang Poon
     Yichen Huang
 -->
 
+- **Form vs Information: The Regimes of Data Property Rights**\\
+**Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng
+
 - **Collective Tree Exploration with Predictions**\\
   Romain Cosson, **Yichen Huang**, Michael Mitzenmacher, Ali Vakilian
 
 - **Online Fair Division with Upgrade Recourse**\\
 **Yichen Huang**, Nicholas Teh
 
-- **[Tight Efficiency Gaurantees for Strategyproof Linear Regression](https://arxiv.org/abs/2609.33976)**\\
+- **[Tight Efficiency Gaurantees for Strategyproof Linear Regression](https://arxiv.org/abs/2609.33976){: .publication-title-link}**\\
 **Yichen Huang**\*, Yuqi Pan\*, Yiling Chen, Michael Mitzenmacher, Milind Tambe
 
 ## Selected Publications
@@ -73,11 +76,11 @@ SODA 2027
   SODA 2027
 {: .publication-list}
 
-- **[Online Monotone Metric Embeddings](https://arxiv.org/abs/2604.27059){: .publication-title-link}** \[[1 hour talk (in Chinese)](https://www.youtube.com/watch?v=L5hqESHbPvs)\]\\
+- **[Online Monotone Metric Embeddings](https://arxiv.org/abs/2604.27059){: .publication-title-link}**\\
   Christian Coester, **Yichen Huang**\\
   ICALP 2026
 
-- **[The Mixed Birth-death/death-Birth Moran Process](https://arxiv.org/abs/2511.18252){: .publication-title-link}** \[[20 mins talk](https://youtu.be/RxWbd2SH-zg?si=f3wSqIhKApJE81hB)\]\\
+- **[The Mixed Birth-death/death-Birth Moran Process](https://arxiv.org/abs/2511.18252){: .publication-title-link}** ([20 mins talk](https://youtu.be/RxWbd2SH-zg?si=f3wSqIhKApJE81hB))\\
   David A. Brewster, **Yichen Huang**, Michael Mitzenmacher, Martin A. Nowak\\
   ITCS 2026, PLOS Computational Biology
 {: .publication-list}
