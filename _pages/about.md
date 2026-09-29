@@ -53,7 +53,7 @@ Christian Coester, **Yichen Huang**, Tzeyang Poon
 -->
 
 ## Working Papers
-<p class="publication-note">Authors are listed alphabetically unless indicated otherwise; (*) denotes equal contribution.</p>
+<p class="publication-note">Authors are listed alphabetically unless they are not, in which case (*) denotes equal contribution.</p>
 
 - **Form vs Information: The Regimes of Data Property Rights**\\
 **Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng
