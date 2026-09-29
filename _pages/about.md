@@ -61,7 +61,7 @@ Christian Coester, **Yichen Huang**, Tzeyang Poon
 **Yichen Huang**, Nicholas Teh
 
 - **[Tight Efficiency Gaurantees for Strategyproof Linear Regression](https://arxiv.org/abs/2609.33976)**\\
-**Yichen Huang**^\*, Yuqi Pan^\*, Yiling Chen, Michael Mitzenmacher, Milind Tambe
+**Yichen Huang**\*, Yuqi Pan\*, Yiling Chen, Michael Mitzenmacher, Milind Tambe
 
 ## Selected Publications
 - **Competitive Online Clustering with Movement Cost**\\
