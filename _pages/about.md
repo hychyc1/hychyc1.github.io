@@ -20,8 +20,6 @@ I completed my undergraduate studies during 2020 to 2024 at the University of Ox
 
 I enjoy talking to people with different backgrounds and perspectives. If you are interested in collaborating, or simply want to chat about anything, feel free to reach out at [\{firstname\}\{lastname\}]@g.harvard.edu.
 
-
-## Working Papers
 <!-- 
 Chasing Small Sets in Random Order
 Sujoy Bhore, Christian Coester, **Yichen Huang**
@@ -53,6 +51,9 @@ Christian Coester, **Yichen Huang**, Tzeyang Poon
 - **Revisiting Simple Auctions: Approximating versus Surpassing**\\
     Yichen Huang
 -->
+
+## Working Papers
+<sub>Authors are usually listed in alphabetical ordering unless they are not, in which case (\*) marks equal contribution.<sub>
 
 - **Form vs Information: The Regimes of Data Property Rights**\\
 **Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng
