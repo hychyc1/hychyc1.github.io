@@ -21,14 +21,11 @@ I completed my undergraduate studies during 2020 to 2024 at the University of Ox
 I enjoy talking to people with different backgrounds and perspectives. If you are interested in collaborating, or simply want to chat about anything, feel free to reach out at [\{firstname\}\{lastname\}]@g.harvard.edu.
 
 <!-- 
-Chasing Small Sets in Random Order
+Set Chasing in Random Order
 Sujoy Bhore, Christian Coester, **Yichen Huang**
 
 Improved FPT algorithm for Capacitated k-Median
 Aditya Anand, **Yichen Huang**, Euiwoong Lee
-
-- **[Form vs Information: The Regimes of Data Property Rights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626){: .publication-title-link}**\\
-**Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng
 
 - **Online Metric Matching with Monotone Recourse**\\
 Christian Coester, **Yichen Huang**
@@ -39,29 +36,32 @@ Yiling Chen, Shi Feng, **Yichen Huang**, Yuqi Pan, Milind Tambe, Sadie Zhao
 - **Metrical Service System with Multiple Servers and Generalized $k$-Server on General Metrics**\\
 **Yichen Huang**
 
-- **Polynomial Competitive Ratio for the Harmonic Algorithm for $k$-Server**\\
-Christian Coester, **Yichen Huang**
+- **[On Fully Dynamic Nested Clustering](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
+**Yichen Huang**, Antonis Skarlatos
 
-- **Online $k$-Taxi on General Metrics**\\
-Christian Coester, **Yichen Huang**, Tzeyang Poon
+- **[Form vs Information: The Regimes of Data Property Rights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626){: .publication-title-link}**\\
+**Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng
 
-- **Online Fair Division of Chores with Upgrade Recourse**\\
+- **[The Harmonic $k$-Server Algorithm Is Poly($k$)-Competitive](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
+**Yichen Huang**
+
+- **[Online Fair Division of Chores with Upgrade Recourse](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
 **Yichen Huang**, Nicholas Teh
 
-- **Revisiting Simple Auctions: Approximating versus Surpassing**\\
-    Yichen Huang
+- **[The $k$-Taxi Problem Is Competitive on General Metrics](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
+Christian Coester, **Yichen Huang**, Tzeyang Poon
+
+- **[Collective Tree Exploration with Predictions](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
+  Romain Cosson, **Yichen Huang**, Michael Mitzenmacher, Ali Vakilian
 -->
 
 ## Working Papers
 <p class="publication-note">Authors are listed alphabetically unless they are not, in which case (*) denotes equal contribution.</p>
 
-- **Form vs Information: The Regimes of Data Property Rights**\\
-**Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng
+- **[Improved Approximation and Tight Competition for Simple Auctions](http://arxiv.org/abs/2610.24973){: .publication-title-link}**\\
+    **Yichen Huang**
 
-- **Collective Tree Exploration with Predictions**\\
-  Romain Cosson, **Yichen Huang**, Michael Mitzenmacher, Ali Vakilian
-
-- **Online Fair Division with Upgrade Recourse**\\
+- **[Online Fair Division with Upgrade Recourse](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
 **Yichen Huang**, Nicholas Teh
 
 - **[Tight Efficiency Gaurantees for Strategyproof Linear Regression](https://arxiv.org/abs/2609.33976){: .publication-title-link}**\\
@@ -69,14 +69,13 @@ Christian Coester, **Yichen Huang**, Tzeyang Poon
 {: .publication-list}
 
 ## Selected Publications
-- **Competitive Online Clustering with Movement Cost**\\
+- **[Competitive Online Clustering with Movement Cost](https://arxiv.org/abs/2610.22824){: .publication-title-link}**\\
   Christian Coester, **Yichen Huang**, Michael Mitzenmacher\\
 SODA 2027
 
 - **[The Power of Arrival Times in Random-Order Online Facility Location](https://arxiv.org/abs/2607.10564){: .publication-title-link}**\\
   **Yichen Huang**, Shaofeng H.-C. Jiang\\
   SODA 2027
-{: .publication-list}
 
 - **[Online Monotone Metric Embeddings](https://arxiv.org/abs/2604.27059){: .publication-title-link}**\\
   Christian Coester, **Yichen Huang**\\
