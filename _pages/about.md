@@ -24,32 +24,23 @@ I enjoy talking to people with different backgrounds and perspectives. If you ar
 Set Chasing in Random Order
 Sujoy Bhore, Christian Coester, **Yichen Huang**
 
-Improved FPT algorithm for Capacitated k-Median
-Aditya Anand, **Yichen Huang**, Euiwoong Lee
-
-- **Online Metric Matching with Monotone Recourse**\\
+- **Online Metric Matching with Upgrade Recourse**\\
 Christian Coester, **Yichen Huang**
 
 - **HAI Present Bias**\\
 Yiling Chen, Shi Feng, **Yichen Huang**, Yuqi Pan, Milind Tambe, Sadie Zhao
 
-- **Metrical Service System with Multiple Servers and Generalized $k$-Server on General Metrics**\\
-**Yichen Huang**
-
 - **[On Fully Dynamic Nested Clustering](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
+**Yichen Huang**, Antonis Skarlatos
+
+- **[Fully Dynamic Nested Clustering](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
 **Yichen Huang**, Antonis Skarlatos
 
 - **[Form vs Information: The Regimes of Data Property Rights](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484626){: .publication-title-link}**\\
 **Yichen Huang**, Zhen Sun, Xinzhen Xu, Bozhong Zheng
 
-- **[The Harmonic $k$-Server Algorithm Is Poly($k$)-Competitive](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
+- **[On Weighted $k$-Server, Generalized $k$-Server, and Metrical Service System with Multiple Servers](about.md){: .publication-title-link}**\\
 **Yichen Huang**
-
-- **[Online Fair Division of Chores with Upgrade Recourse](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
-**Yichen Huang**, Nicholas Teh
-
-- **[The $k$-Taxi Problem Is Competitive on General Metrics](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
-Christian Coester, **Yichen Huang**, Tzeyang Poon
 
 - **[Collective Tree Exploration with Predictions](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
   Romain Cosson, **Yichen Huang**, Michael Mitzenmacher, Ali Vakilian
@@ -58,10 +49,25 @@ Christian Coester, **Yichen Huang**, Tzeyang Poon
 ## Working Papers
 <p class="publication-note">Authors are listed alphabetically unless they are not, in which case (*) denotes equal contribution.</p>
 
-- **[Improved Approximation and Tight Competition for Simple Auctions](http://arxiv.org/abs/2610.24973){: .publication-title-link}**\\
+- **[The Online $k$-Taxi Problem Is Competitive on All Metrics](https://arxiv.org/abs/2611.06684){: .publication-title-link}**\\
+Christian Coester, **Yichen Huang**, Tze-Yang Poon
+
+- **[The Harmonic $k$-Server Algorithm Is Poly($k$)-Competitive](https://arxiv.org/abs/2611.05669){: .publication-title-link}**\\
+**Yichen Huang**
+
+- **[A Bulow-Klemperer Theorem for Bundling and Improved Approximation Bounds for Simple Auctions](http://arxiv.org/abs/2610.24973){: .publication-title-link}**\\
     **Yichen Huang**
 
+- **[A Tight FPT Approximation for Capacitated k-Median](about.md){: .publication-title-link}**\\
+Aditya Anand, **Yichen Huang**, Ragesh Jaiswal, Amit Kumar, Euiwoong Lee, Jatin Yadav
+
+<!-- - **[Sublinear Metric Distortion for Matching](about.md){: .publication-title-link}**\\
+Moses Charikar, Alireza Haqi, Jabari Hastings, **Yichen Huang**, Prasanna Ramakrishnan
+
 - **[Online Fair Division with Upgrade Recourse](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
+**Yichen Huang**, Nicholas Teh -->
+
+- **[Online Fair Division of Chores with Upgrade Recourse](https://arxiv.org/abs/2611.00432){: .publication-title-link}**\\
 **Yichen Huang**, Nicholas Teh
 
 - **[Tight Efficiency Gaurantees for Strategyproof Linear Regression](https://arxiv.org/abs/2609.33976){: .publication-title-link}**\\
