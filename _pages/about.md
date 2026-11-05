@@ -58,14 +58,14 @@ Christian Coester, **Yichen Huang**, Tze-Yang Poon
 - **[A Bulow-Klemperer Theorem for Bundling and Improved Approximation Bounds for Simple Auctions](http://arxiv.org/abs/2610.24973){: .publication-title-link}**\\
     **Yichen Huang**
 
-- **[A Tight FPT Approximation for Capacitated k-Median](about.md){: .publication-title-link}**\\
+<!-- - **[A Tight FPT Approximation for Capacitated k-Median](about.md){: .publication-title-link}**\\
 Aditya Anand, **Yichen Huang**, Ragesh Jaiswal, Amit Kumar, Euiwoong Lee, Jatin Yadav
 
-<!-- - **[Sublinear Metric Distortion for Matching](about.md){: .publication-title-link}**\\
-Moses Charikar, Alireza Haqi, Jabari Hastings, **Yichen Huang**, Prasanna Ramakrishnan
+- **[Sublinear Metric Distortion for Matching](about.md){: .publication-title-link}**\\
+Moses Charikar, Alireza Haqi, Jabari Hastings, **Yichen Huang**, Prasanna Ramakrishnan -->
 
 - **[Online Fair Division with Upgrade Recourse](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
-**Yichen Huang**, Nicholas Teh -->
+**Yichen Huang**, Nicholas Teh
 
 - **[Online Fair Division of Chores with Upgrade Recourse](https://arxiv.org/abs/2611.00432){: .publication-title-link}**\\
 **Yichen Huang**, Nicholas Teh
