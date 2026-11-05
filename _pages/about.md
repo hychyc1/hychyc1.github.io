@@ -48,8 +48,6 @@ Yiling Chen, Shi Feng, **Yichen Huang**, Yuqi Pan, Milind Tambe, Sadie Zhao
 - **[A Tight FPT Approximation for Capacitated k-Median](about.md){: .publication-title-link}**\\
 Aditya Anand, **Yichen Huang**, Ragesh Jaiswal, Amit Kumar, Euiwoong Lee, Jatin Yadav
 
-- **[Sublinear Metric Distortion for Matching](about.md){: .publication-title-link}**\\
-Moses Charikar, Alireza Haqi, Jabari Hastings, **Yichen Huang**, Prasanna Ramakrishnan 
 -->
 
 ## Working Papers
@@ -58,11 +56,14 @@ Moses Charikar, Alireza Haqi, Jabari Hastings, **Yichen Huang**, Prasanna Ramakr
 - **[The Online k-Taxi Problem Is Competitive on All Metrics](https://arxiv.org/abs/2611.06684){: .publication-title-link}**\\
 Christian Coester, **Yichen Huang**, Tze-Yang Poon
 
+- **[A Bulow-Klemperer Theorem for Bundling and Improved Approximation Bounds for Simple Auctions](http://arxiv.org/abs/2610.24973){: .publication-title-link}**\\
+    **Yichen Huang**
+
 - **[The Harmonic Online k-Server Algorithm Is Poly(k)-Competitive](https://arxiv.org/abs/2611.05669){: .publication-title-link}**\\
 **Yichen Huang**
 
-- **[A Bulow-Klemperer Theorem for Bundling and Improved Approximation Bounds for Simple Auctions](http://arxiv.org/abs/2610.24973){: .publication-title-link}**\\
-    **Yichen Huang**
+- **[Sublinear Metric Distortion for Matching](https://arxiv.org/abs/2611.05777){: .publication-title-link}**\\
+Moses Charikar, Alireza Haqi, Jabari Hastings, **Yichen Huang**, Prasanna Ramakrishnan
 
 - **[Online Fair Division with Upgrade Recourse](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
 **Yichen Huang**, Nicholas Teh
@@ -70,8 +71,8 @@ Christian Coester, **Yichen Huang**, Tze-Yang Poon
 - **[Online Fair Division of Chores with Upgrade Recourse](https://arxiv.org/abs/2611.00432){: .publication-title-link}**\\
 **Yichen Huang**, Nicholas Teh
 
-- **[Tight Efficiency Gaurantees for Strategyproof Linear Regression](https://arxiv.org/abs/2609.33976){: .publication-title-link}**\\
-**Yichen Huang**\*, Yuqi Pan\*, Yiling Chen, Michael Mitzenmacher, Milind Tambe
+- **[Tight Efficiency Guarantees for Strategyproof Linear Regression](https://arxiv.org/abs/2609.33976){: .publication-title-link}**\\
+**Yichen Huang**\*, Yuqi Pan\*, Michael Mitzenmacher, Milind Tambe, Yiling Chen
 {: .publication-list}
 
 ## Selected Publications
