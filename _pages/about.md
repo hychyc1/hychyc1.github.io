@@ -30,7 +30,7 @@ Christian Coester, **Yichen Huang**
 - **HAI Present Bias**\\
 Yiling Chen, Shi Feng, **Yichen Huang**, Yuqi Pan, Milind Tambe, Sadie Zhao
 
-- **[On Fully Dynamic Nested Clustering](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
+- **[Optimal Deterministic Fully Dynamic Nested $k$-center](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
 **Yichen Huang**, Antonis Skarlatos
 
 - **[Fully Dynamic Nested Clustering](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
@@ -44,6 +44,12 @@ Yiling Chen, Shi Feng, **Yichen Huang**, Yuqi Pan, Milind Tambe, Sadie Zhao
 
 - **[Collective Tree Exploration with Predictions](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
   Romain Cosson, **Yichen Huang**, Michael Mitzenmacher, Ali Vakilian
+
+- **[A Tight FPT Approximation for Capacitated k-Median](about.md){: .publication-title-link}**\\
+Aditya Anand, **Yichen Huang**, Ragesh Jaiswal, Amit Kumar, Euiwoong Lee, Jatin Yadav
+
+- **[Sublinear Metric Distortion for Matching](about.md){: .publication-title-link}**\\
+Moses Charikar, Alireza Haqi, Jabari Hastings, **Yichen Huang**, Prasanna Ramakrishnan 
 -->
 
 ## Working Papers
@@ -57,12 +63,6 @@ Christian Coester, **Yichen Huang**, Tze-Yang Poon
 
 - **[A Bulow-Klemperer Theorem for Bundling and Improved Approximation Bounds for Simple Auctions](http://arxiv.org/abs/2610.24973){: .publication-title-link}**\\
     **Yichen Huang**
-
-<!-- - **[A Tight FPT Approximation for Capacitated k-Median](about.md){: .publication-title-link}**\\
-Aditya Anand, **Yichen Huang**, Ragesh Jaiswal, Amit Kumar, Euiwoong Lee, Jatin Yadav
-
-- **[Sublinear Metric Distortion for Matching](about.md){: .publication-title-link}**\\
-Moses Charikar, Alireza Haqi, Jabari Hastings, **Yichen Huang**, Prasanna Ramakrishnan -->
 
 - **[Online Fair Division with Upgrade Recourse](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
 **Yichen Huang**, Nicholas Teh
