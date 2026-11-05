@@ -58,7 +58,7 @@ Moses Charikar, Alireza Haqi, Jabari Hastings, **Yichen Huang**, Prasanna Ramakr
 - **[The Online k-Taxi Problem Is Competitive on All Metrics](https://arxiv.org/abs/2611.06684){: .publication-title-link}**\\
 Christian Coester, **Yichen Huang**, Tze-Yang Poon
 
-- **[The Harmonic k-Server Algorithm Is Poly(k)-Competitive](https://arxiv.org/abs/2611.05669){: .publication-title-link}**\\
+- **[The Harmonic Online k-Server Algorithm Is Poly(k)-Competitive](https://arxiv.org/abs/2611.05669){: .publication-title-link}**\\
 **Yichen Huang**
 
 - **[A Bulow-Klemperer Theorem for Bundling and Improved Approximation Bounds for Simple Auctions](http://arxiv.org/abs/2610.24973){: .publication-title-link}**\\
