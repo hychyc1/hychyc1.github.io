@@ -18,7 +18,7 @@ I completed my undergraduate studies during 2020 to 2024 at the University of Ox
 
 <!-- Occasionally, I participate in empirical and experimental research, usually by contributing theoretical guarantees and conceptual framing. -->
 
-I enjoy talking to people with different backgrounds and perspectives. If you are interested in collaborating, or simply want to chat about anything, feel free to reach out at [\{firstname\}\{lastname\}]@g.harvard.edu.
+I enjoy talking to people with different backgrounds and perspectives. If you are interested in collaborating, or simply want to chat about anything, feel free to reach out at `yichenhuang@g.harvard.edu`.
 
 <!-- 
 Set Chasing in Random Order
@@ -42,8 +42,6 @@ Yiling Chen, Shi Feng, **Yichen Huang**, Yuqi Pan, Milind Tambe, Sadie Zhao
 - **[On Weighted $k$-Server, Generalized $k$-Server, and Metrical Service System with Multiple Servers](about.md){: .publication-title-link}**\\
 **Yichen Huang**
 
-- **[Collective Tree Exploration with Predictions](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
-  Romain Cosson, **Yichen Huang**, Michael Mitzenmacher, Ali Vakilian
 
 - **[A Tight FPT Approximation for Capacitated k-Median](about.md){: .publication-title-link}**\\
 Aditya Anand, **Yichen Huang**, Ragesh Jaiswal, Amit Kumar, Euiwoong Lee, Jatin Yadav
@@ -76,6 +74,10 @@ Moses Charikar, Alireza Haqi, Jabari Hastings, **Yichen Huang**, Prasanna Ramakr
 {: .publication-list}
 
 ## Selected Publications
+<!-- - **[Collective Tree Exploration with Predictions](https://arxiv.org/abs/2610.16943){: .publication-title-link}**\\
+  Romain Cosson, **Yichen Huang**, Michael Mitzenmacher, Ali Vakilian\\
+  ITCS 2027 -->
+
 - **[Competitive Online Clustering with Movement Cost](https://arxiv.org/abs/2610.22824){: .publication-title-link}**\\
   Christian Coester, **Yichen Huang**, Michael Mitzenmacher\\
 SODA 2027
